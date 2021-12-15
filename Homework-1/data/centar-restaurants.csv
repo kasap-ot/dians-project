@@ -1,0 +1,135 @@
+osm_id,addr:city,addr:postcode,addr:street,alt_name,amenity,cuisine,int_name,name,name:en,opening_hours,website,wheelchair,wheelchair:description,email,level,outdoor_seating,phone,sells:ice_cream,smoking,addr:city:en,addr:country,addr:housename,addr:street:en,takeaway,addr:housenumber,internet_access,internet_access:fee,payment:american_express,payment:coins,payment:maestro,payment:mastercard,payment:notes,payment:visa,payment:visa_electron,description,addr:housename:en,operator,name:mk,diet:vegan,capacity,diet:sugar_free,diet:vegetarian,building,building:levels,office,layer,fax,payment:diners_club,name:nl,name:tr,shop,delivery,is_in,old_name,leisure,WKT
+309894643,Skopje,1000,Ploštad Makedonija,Dal Met Fu,restaurant,italian,Pelister,Pelister,Pelister,Mo-Th 07:00-00:00; Fr-Sa 07:00-01:00; Su 10:30-00:00,https://www.pelisterhotel.com.mk/,yes,Toilet not accessible,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4315703 41.9953933)
+411006922,,,,,restaurant,,,Intermeco,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4140669 41.9947432)
+459668914,,,,,restaurant,italian,,Kaj Džino,Gino,"Mo 08:00-24:00, Tu,We,Fr,Sa 09:00-24:00, Th 09:00-23:00, Su 09:00-01:00",http://www.restorangino.mk/,,,contact@restorangino.mk,1,yes,+389 2 3121109,yes,outside,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4342799 41.9943261)
+459669063,Ckopje,1000,Kej 13 Noemvri,,restaurant,latin_american,Plaza de Toros,Plaza de Toros,,,,,,,,,,,,Skopje,MK,Gradski Trgovski Centar Skopje,Kay 13th November,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4350117 41.9952455)
+908273433,,,,,restaurant,regional,,Tupict,Turist,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4367576 42.0003099)
+1380378702,,,,,restaurant,,,Boemi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.415982 41.9985008)
+1747649203,,,,,restaurant,,,Krčma,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4151525 41.9946274)
+1748017584,Skopje,,,,restaurant,regional,,Marana,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4204906 41.9904847)
+1751563134,Ckopje,,Bulevar Kliment Ohridski,,restaurant,international,,Pastel Wine & Dine,Pastel Wine & Dine,Mo-Fr 06:30-21:00; Sa 06:30-17:00; Su 06:30-16:00,http://pastel.mk/,yes,,,,,+389 2 3214447,,outside,Skopje,MK,,Kliment Ohridski Boulevard,yes,66,wlan,no,no,yes,yes,yes,yes,yes,yes,,,,,,,,,,,,,,,,,,,,,,POINT (21.4245254 41.9947645)
+1752178268,,,,,restaurant,italian,,511,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4163482 41.9922398)
+1770866402,,1000,T.C Bunjakovec prv kat lok 36,,restaurant,pizza,,Picerija Libertas,,,,,,,,,38970567295,,,,,libertas,,,,,,,,,,,,,Coffee&pizza restaurant Libertas,,,,,,,,,,,,,,,,,,,,,POINT (21.4207447 41.9987097)
+1867176020,,,,,restaurant,international,Trend,Trend,Trend,,,limited,Toilet not accessible,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4304595 41.9957062)
+1868812117,Ckopje,1000,Vladimir Poležanovski,,restaurant,barbecue,,Destan,,Mo-Su 09:00-23:00,https://destan.mk/pocetna/,,,,,yes,38923127324,,separated,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4204158 41.9987513)
+1985948203,,,,,restaurant,italian,,Balila,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.416522 41.9922245)
+1999633538,,,,,restaurant,,,Bifinja - Ramstor,Food Court Ramstore,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4280088 41.9913687)
+2105387352,Skopje,,Orce Nikolov,,restaurant,,Brukilnski,Bruklinski,Bruklinski,,,limited,,,,yes,+389 2 6091844,,separated,Skopje,MK,,Orce Nikolov,,75,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4252581 42.0001581)
+2159535851,Ckopje,1000,Kej 13 Noemvri,,restaurant,international,,Bela vista,Bella Vista,"10:00-24:00, Fr-Sa 10:00-01:00",www.bellavistaskopje.mk,,,,,,,,,Skopje,MK,Gradski Trgovski Centar Skopje,Kay 13th November,,02-Apr,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4347685 41.9953199)
+2322886873,,,,,restaurant,regional,Arabeska,Arabeska,Arabesque,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4302915 41.9952825)
+3101726040,Ckopje,1000,Gradište,,restaurant,regional,,Pivnica AN,Beerhouse AN,Mo-Sa 09:00-24:00; Su 12:00-24:00,http://pivnicaan.mk/,,,pivnicaan@yahoo.com,,yes,+389 02 321 2111,,separated,Skopje,MK,Kapan AN,Gradiste,,14,wlan,no,yes,yes,,yes,yes,yes,,,Kapan AN,,,,,,,,,,,,,,,,,,,,POINT (21.4366005 42.0000179)
+3341289789,Skopje,1000,Makedonija,,restaurant,,,Damaskino,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4297981 41.9925716)
+3484100384,Skopje,,,,restaurant,,,Dal Fufo - Galija,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4231542 41.9917018)
+3505013893,Skopje,1000,11 Oktomvri,,restaurant,kebab,,Destan,,08:00-23:00,,yes,,,,yes,,,separated,Skopje,MK,,11 Oktomvri,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4319604 41.9947506)
+3505013993,Skopje,1000,11 Oktomvri,,restaurant,italian,La Terrazza,La Teraca,,"08:00-24:00, Fr-Sa 08:00-01:00",,yes,,,,yes,+389 2 3113380,,separated,Skopje,MK,,11 Oktomvri,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4317257 41.9950911)
+3707090923,,,,,restaurant,regional,,Esnaf kaj dare,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4170693 41.997226)
+3832475135,,,,,restaurant,,,Lezet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4427245 41.9922973)
+3832475147,,,,,restaurant,,,Kaj Zlate,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4422139 41.9922032)
+4004645106,Ckopje,1000,Maksim Gorki,,restaurant,chinese,Peking Garden,Peking Garden,,Mo-Sa 11:00-24:00; Su 12:00-23:00,www.pekinggarden.mk,,,reservation@pekinggarden.mk,,,+389 2 3221173,,,,MK,,Maksim Gorki,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4301301 41.9957324)
+4126731965,,,,,restaurant,international,,Sky restoranot,Sky Restaurant,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hotel Stone Bridge,,,,,,,,,,,,,,,,,,,POINT (21.434577 41.9973163)
+4149490289,Skopje,1000,Makedonija,,restaurant,mexican,,Amigos Meksikanska Kantina,Amigos Mexican Cantina,"Mo-Th 08:00-24:00, Fr,Sa 08:00-01:00, Su 10:00-24:00",http://www.amigos.com.mk/,yes,,info@amigos.com.mk,,yes,+389 71 230314,,outside,,,,,yes,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4300742 41.9933026)
+4195733217,Ckopje,1000,Kej 13 Noemvri,,restaurant,international,,Soul kičen,Soul-Kitchen,,,,,,,yes,,,outside,Skopje,MK,Gradski Trgovski Centar Skopje,Kay 13th November,,,,,,,,,,,,,,Soul-Kitchen,,,,,,,,,,,,,,,,,,,POINT (21.4338586 41.9955972)
+4275843195,,,,,restaurant,,,Lavče,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4160063 41.9969599)
+4346542839,,,,,restaurant,,,"Lounge Bar & Restaurant ""Square 21""",,,,,,,,,,,,,,,,,,wlan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4301208 41.9927317)
+4436518191,,,,,restaurant,,,Kaj Serdarot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kaj Cerdarot,,,,,,,,,,,,,,,,,,POINT (21.4362461 41.9996618)
+4436534289,,,,,restaurant,,,Destan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Destan,,,,,,,,,,,,,,,,,,POINT (21.436081 41.9996701)
+4436534489,,,,,restaurant,,,Avstriska palta,Austrian Palace,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Austrian Palace,,,,,,,,,,,,,,,,,,POINT (21.4355401 41.9994953)
+4459578969,Ckopje,1000,Kej 13 Noemvri,,restaurant,international,Amica,Amika,,,,,,,1,,,,,Skopje,MK,Gradski Trgovski Centar Skopje,Kay 13th November,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4355401 41.9949989)
+4481662566,,,,,restaurant,italian,Dion,Dion,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4335119 41.995703)
+4982232721,,,,,restaurant,,,,BistRaw,Mo-Fr 12:00-20:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,POINT (21.4238693 41.9988648)
+5033108253,Ckopje,1000,Radnjanska,,restaurant,burger;coffee_shop;sandwich;ice_cream,,Kantina,,Monday- Satudray 09:00-24:00,,,,,,yes,,,outside,,,,,yes,4,,,,,,,,,,,,,,,100,,,,,,,,,,,,,,,,POINT (21.4191901 42.0005946)
+5131832941,Ckopje,1000,Dame Gruev,,restaurant,grill,,7 Skara Restoran,7 Grill Restaurant,Mo-Th 08:00-24:00; Sa 08:00-01:00,http://7.mk/skara-restoran/,,,info@7.mk,,yes,38923224000,,,,,,,yes,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4276093 41.9948293)
+5224224121,,1000,,,restaurant,,,Gostilnica Gurman,guest house Gurman,Mo-Su 07:00-22:00,,,,ristovskidac@yahoo.com,,,38923176200,,,,,,,,,wlan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4223088 41.9916484)
+5289706561,,,,,restaurant,,,Star Ocean,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4276864 41.9913338)
+5292130848,,,,,restaurant,,,Fitness house,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4149006 42.0005187)
+5548809221,,,,,restaurant,local;barbecue,,kaj serdarot,Kaj Serdarot,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4366123 41.9995926)
+5572053321,,1000,Živko Čingo,,restaurant,chicken;diner;beef_bowl;american;ice_cream;local;tea;pizza;burger;cake;pasta;french;italian_pizza;seafood;crepe;pancake;sandwich;coffee_shop;balkan;mediterranean;croatian;fish;kebab;breakfast;grill,,Debar Maalo,Debar Maalo,Su-Th 08:00-00:30; Fr-Sa 08:00-01:00,,,,,,,38976219654,,,,,,,,,wlan,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,POINT (21.4205747 42.0013292)
+5624670966,,1000,Bulevar Ilinden,,restaurant,balkan,,MCM Meze Bar,MCM Meze Bar,24-Jul,,,,mezebarmcm@gmail.com,,,38970250420,,,,,,,,80,wlan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4235595 42.0023813)
+5624682355,,,,,restaurant,,,Kostarika,Kostarika,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4239655 42.0028235)
+5624682357,,,,,restaurant,,,Staro Skupi,Staro Skupi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4240111 42.0028813)
+5624682358,,,,,restaurant,pizza,,Zanzibar,Zanzibar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4240217 42.0030128)
+5626432520,,,,,restaurant,,,Idadija,Idadija,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4210921 42.0013712)
+5626433431,,,,,restaurant,,,Nadžak,Nadzak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4214837 42.001453)
+5626433457,,,,,restaurant,,,Zing,Fruti Di Mare,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4206632 42.0010941)
+5626433480,,,,,restaurant,,,Debar Maalo,Gostilnica Ilinden,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.420049 42.0007591)
+5626433502,,,,,restaurant,,,Kaj Pero,Kaj Pero,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4208615 42.0014888)
+5692608680,,,,,restaurant,kebab,,Gostilnica Estel,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,Estel,,,,,,,,,,,,,,,,,,,POINT (21.4236496 41.9990663)
+5789449053,,,,,restaurant,local,,SNOŠTI MINAV,SNOSTI MINAV,,,,,,,,,,,,,,,,,wlan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4361151 41.9995917)
+5807750050,,,,,restaurant,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4367281 41.995288)
+5813417254,,1000,Živko Čingo,,restaurant,savory_pancakes;german;chicken;diner;american;local;barbecue;tea;fine_dining;cake;pasta;international;french;greek;seafood;fish_and_chips;pancake;sandwich;coffee_shop;balkan;mediterranean;croatian;ramen;turkish;fish;kebab;grill,,"Kafana ""Debar Maalo""","Kafana ""Debar Maalo""",Mo-Th 08:00-00:00; Fr-Su 08:00-01:00,,,,,,,38971279660,,,,,,,,,wlan,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,POINT (21.4200655 42.0009079)
+6032865286,,,,,restaurant,barbecue;local,,Pçela,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4371953 42.0002786)
+6054048486,,,,,restaurant,,,,Bratstvo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4378319 42.0021215)
+6054048700,,,,,restaurant,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4228991 41.9972228)
+6054050086,,,,,restaurant,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4207756 41.9946111)
+6054050099,,,,,restaurant,,,Vodenica,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.413512 41.9947931)
+6054050786,,,,,restaurant,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4142348 41.9986877)
+6102488864,,,,Gostilnica Frosina,restaurant,local,,Restoran Frosina,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4199442 41.9959518)
+6386335236,,,,,restaurant,,,Kaj Goce,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4362086 41.9996644)
+6514996385,,,,,restaurant,,,,Kosmos,Mo-Su 07:00-22:00,,,,,,,,,,,,,,,,wlan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4383066 42.0025666)
+6781335887,,,,,restaurant,,,Kebapčilinica Rio,Grill House Rio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4360459 41.999319)
+6781337085,,,,,restaurant,,,,Gjeltoria Palas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4383639 42.0018869)
+6788977446,,,,,restaurant,,,Vega,,,,,,,,,,,,,,,,,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4131738 41.9995518)
+6796436088,,,,,restaurant,,,Saraevo,Saraj,Mo-Su 07:30-19:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4381318 42.0015097)
+6814231688,,,,,restaurant,,,Tako mako,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4364213 42.0006226)
+6814231700,,,,,restaurant,,,Ohrid,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4372514 42.0003594)
+6814231702,,,,,restaurant,,,Markt kitchen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4285563 41.9969455)
+6814231793,,,,,restaurant,,,Sac,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4374651 42.0002543)
+6814236587,,,,,restaurant,,,Skopsko,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4224937 42.0019483)
+6814236621,,,,,restaurant,,,Palas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4385882 42.0021119)
+6814245589,,,,,restaurant,,,Schpajs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Špajz,,,,,,,,,,,,,,,,,,POINT (21.4219242 42.0017088)
+6814246691,,,,,restaurant,,,Don Giovanni,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.436443 42.0005272)
+6814246724,,,,,restaurant,,,Concept,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4373399 41.9999786)
+6815434686,,,,,restaurant,,,Plaset,Restoran Saraj,Mo-Su 07:00-02:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4382061 42.0016292)
+6815434689,,,,,restaurant,,,,Toto,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4229663 41.9967339)
+6815434692,,,,,restaurant,,,,Teteks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4384905 42.002027)
+6815454785,,,,,restaurant,,,Buket,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4244578 41.9945241)
+6815918386,,,,,restaurant,,,Mosh,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4243264 41.9963262)
+6815931392,,,,,restaurant,,,Metzka,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4186405 42.0026188)
+6821158588,,,,,restaurant,,,Davidoff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4243092 41.9942446)
+6827032731,,,,,restaurant,,,Pizzeria Bik,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4415279 42.0027517)
+6827032733,,,,,restaurant,,,Old Balkan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4380383 42.0011296)
+6827076186,,,,,restaurant,,,Kursumli An,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4371206 42.0025774)
+7027229685,,,,,restaurant,,,Restoran Nacional,Restaurant National,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4352029 41.993295)
+7027229686,,,,,restaurant,,,Kaj Jole,Kaj Jole,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4283137 41.996324)
+8745631651,Ckopje,,Dame Gruev,,restaurant,,,Paradise Food,,Mo-Th 08:00-20:00; Fr 08:00-16:00; Su 08:00-20:00,https://www.facebook.com/paradisefood.mk/,,,,,,+389 76 424 104,,,,,,,,7,,,,,,,,,,,,,,yes,,yes,yes,,,,,,,,,,,,,,POINT (21.4276555 41.9942708)
+8905635710,,,,,restaurant,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4408895 41.9909456)
+9200216340,,,,,restaurant,,,Mexican street food,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4142957 42.0006689)
+9200216346,,,,,restaurant,,,Boko,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,POINT (21.4171327 41.997055)
+32674255,Ckopje,1000,Vasil Ǵorgov,,restaurant,,,Konstrukta,,,,,,,,,,,,Skopje,MK,,,,,,,,,,,,,,,,,,,,,,office,1,insurance,,,,,,,,,,,"POLYGON ((21.4190018 41.9922233, 21.4188135 41.9922405, 21.4188602 41.9925227, 21.4192836 41.992484, 21.41926 41.9923419, 21.419025 41.9923634, 21.4190018 41.9922233))"
+121390892,Ckopje,1000,Mitropolit Teodosij Gologanov,,restaurant,,,Restoran 2 Zlatnika,,,,limited,,,,,,,,Skopje,MK,,,,28,,,,,,,,,,,,,,,,,,yes,,insurance,,,,,,,,,,,"POLYGON ((21.4234118 41.9953699, 21.4240324 41.9954458, 21.4240658 41.9952947, 21.4234452 41.9952188, 21.4234118 41.9953699))"
+121511379,Ckopje,1000,Debarca,,restaurant,,,Kerpič,,,,,,,,,,,,Skopje,MK,,,,21,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,"POLYGON ((21.4226694 41.9974288, 21.4225372 41.9973872, 21.4225327 41.9972628, 21.4226709 41.99725, 21.4227885 41.9973257, 21.4226694 41.9974288))"
+121511400,Ckopje,1000,Kiro Krstevski Platnik,Dane,restaurant,regional,Dane,Dane,Dane,,,,,,,,,,,Skopje,MK,Dane,,,2,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,"POLYGON ((21.4220069 41.9962498, 21.4221676 41.9962603, 21.42218 41.9961549, 21.4220195 41.9961443, 21.4220069 41.9962498))"
+121511815,Ckopje,1000,Mitropolit Teodosij Gologanov,,restaurant,grill;local,,Ka,,,,,,,,,38923214350,,,Skopje,MK,,,,32b,wlan,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,"POLYGON ((21.4221286 41.9951717, 21.4222544 41.9951853, 21.4222794 41.9950582, 21.4221538 41.9950446, 21.4221286 41.9951717))"
+121511817,Ckopje,1000,,,restaurant,regional,,Ǵezme,,,,,,,,,,,,Skopje,MK,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,"POLYGON ((21.4181553 41.995565, 21.4183242 41.9956069, 21.4184154 41.9954035, 21.4182558 41.9953541, 21.4181553 41.995565))"
+122862785,Ckopje,1000,Aminta Treti,,restaurant,pizza,,Mečos,,,,,,,,,,,,Skopje,MK,,Aminta Treti,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,"POLYGON ((21.4229605 41.9990612, 21.4230666 41.9989973, 21.4229703 41.9989335, 21.4228853 41.9990057, 21.4229605 41.9990612))"
+176133887,Ckopje,1000,,,restaurant,,,,,,,,,,,,,,,Skopje,MK,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,"POLYGON ((21.4252373 41.9990018, 21.4254624 41.9988748, 21.4256593 41.9990674, 21.4255137 41.9991496, 21.4254909 41.9991273, 21.4254274 41.999163, 21.4253886 41.9991252, 21.4254416 41.9990953, 21.4253723 41.9990274, 21.4253031 41.9990663, 21.4252373 41.9990018))"
+176147491,Ckopje,1000,Aminta Treti,,restaurant,chinese;thai;japanese;sushi,,Sushi Ko,Sushico,Su-Th 12:00-23:00; Fr-Sa 10:00-00:00,http://www.sushico.mk,,,,,yes,+389 2 3217874,,separated,Skopje,MK,,Leninova,,29,,,,,,,,,,,,,,,,,,apartments,,,1,,,,,,,,,,"POLYGON ((21.4238019 41.9996257, 21.4239225 41.9995543, 21.4241357 41.9997532, 21.4240152 41.9998245, 21.4238019 41.9996257))"
+176159879,Ckopje,1000,Pajko Maalo,,restaurant,regional,Restoran Stara Kuka,Stara kuḱa,Old House Restaurant,,http://starakuka.com.mk/,yes,,,,yes,+389 2 3131376,,separated,Skopje,MK,,,,14,,,,,,,,,,,,,,,,,,yes,,,,+389 2 3119668,,,,,,,,,"POLYGON ((21.4382846 41.9969391, 21.4383674 41.9966936, 21.4385862 41.9967344, 21.4385033 41.9969799, 21.4382846 41.9969391))"
+176448667,Ckopje,1000,,,restaurant,chinese,,Dzvezden Okean,Star Ocean,,,,,,,,,,,Skopje,MK,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,"POLYGON ((21.4271856 41.9957589, 21.427174 41.9956796, 21.4273166 41.9956682, 21.427328 41.9957475, 21.4271856 41.9957589))"
+189975234,Ckopje,1000,,,restaurant,,,,Cafe Gorki,,,,,,,,,,,Skopje,MK,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,"POLYGON ((21.4280676 41.9965143, 21.428047 41.9964534, 21.4280237 41.9964577, 21.4279895 41.9963567, 21.4281268 41.9963311, 21.4281815 41.996493, 21.4280676 41.9965143))"
+248508284,Ckopje,1000,,,restaurant,,,Sopotsko,,,,,,,,,,,,Skopje,MK,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,"POLYGON ((21.426047 42.0015902, 21.4259955 42.0016166, 21.4259656 42.0015845, 21.4259879 42.001573, 21.4260987 42.0015163, 21.4261793 42.0016032, 21.4260978 42.0016449, 21.426047 42.0015902))"
+279392654,Ckopje,1000,,,restaurant,regional,,Kuḱa,,,,,,,,,,,,Skopje,MK,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,"POLYGON ((21.4373419 41.9931566, 21.4374766 41.9931313, 21.4374587 41.9930785, 21.437324 41.9931039, 21.4373419 41.9931566))"
+305533452,Ckopje,1000,Kej 13 Noemvri,,restaurant,,,Restoran Kej,Restoran Kej,,,,,,,,,,,Skopje,MK,,,,36,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,"POLYGON ((21.4413794 41.9945243, 21.4415649 41.9945425, 21.4415735 41.9944944, 21.4415907 41.9943971, 21.4414051 41.9943789, 21.4413794 41.9945243))"
+305647156,Ckopje,1000,Adolf Ciborovski,,restaurant,regional;pizza,,Bravos,,,,,,,,,,,,Skopje,MK,,,,4,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,"POLYGON ((21.4144957 42.0000105, 21.4145262 42.0001265, 21.414643 42.0001094, 21.4146125 41.9999935, 21.4144957 42.0000105))"
+332382509,Ckopje,1000,,,restaurant,regional,,Od Nas Za Vas,,,,,,,,,,,,Skopje,MK,,,yes,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,"POLYGON ((21.4294738 41.9892188, 21.429442 41.9891793, 21.4297853 41.9890215, 21.42981 41.989061, 21.4294738 41.9892188))"
+357827837,Ckopje,1000,,,restaurant,italian,,Vodenica,Vodenica Mulino,,www.vodenicamulino.com.mk,,,,,,,,,Skopje,MK,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,"POLYGON ((21.413059 41.9947505, 21.4130821 41.994863, 21.4130994 41.9949469, 21.4133203 41.9949218, 21.4132925 41.9947864, 21.4132047 41.9947965, 21.4131921 41.9947353, 21.413059 41.9947505))"
+357827839,Ckopje,1000,Mitropolit Teodosij Gologanov,,restaurant,regional,,Dukat,Gostilnica Dukat,"Mo-Fr 08:00-24:00; Sa,Su 00:00-01:00,08:00-24:00",,,,gostilnicadukat@gmail.com,,yes,+389 2 3211011,,separated,Skopje,MK,,Mitroplit Teodosij Gologanov,,79,,,,yes,yes,yes,yes,yes,,,,,,,,,,yes,,,,,yes,,,,,,,,"POLYGON ((21.4129034 41.994973, 21.4130994 41.9949469, 21.4130821 41.994863, 21.4130224 41.9948201, 21.4129133 41.994833, 21.4129332 41.9949344, 21.4128985 41.9949344, 21.4129034 41.994973))"
+363752338,Ckopje,1000,Debarca,,restaurant,regional,,Skopski Merak,,"Mo-Su 00:00-01:00,08:00-24:00",http://www.skopskimerak.mk/,,,,,yes,,,separated,,MK,,,,51,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,"POLYGON ((21.4198035 42.0011296, 21.419926 42.0010594, 21.4198196 42.0009567, 21.419697 42.0010269, 21.4198035 42.0011296))"
+379896010,,,,,restaurant,,,Kalabalak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,"POLYGON ((21.4403034 41.9900801, 21.4401899 41.9899792, 21.4403123 41.9899031, 21.4404259 41.9900041, 21.4403034 41.9900801))"
+388871332,Ckopje,1000,50-ta divizija,,restaurant,regional,,Javna Soba,Public Room,08:00-24:00,http://publicroom.org/contact.html,,,contact@publicroom.org,,,+389 2 6092650,,no,Skopje,MK,,50 Divizija,,22,,,,,,,,,,,,,,,,,,yes,,,,,,Open Huis,Public Room,art,,,,,"POLYGON ((21.4258958 41.9900338, 21.4261521 41.9899133, 21.4260203 41.9897585, 21.4257641 41.9898791, 21.4258958 41.9900338))"
+445237139,,,,,restaurant,,,La Tana,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,"POLYGON ((21.4393091 41.9895548, 21.4391882 41.989444, 21.4390791 41.9895097, 21.4392 41.9896205, 21.4392256 41.9896051, 21.4393091 41.9895548))"
+445237140,,,,,restaurant,,,Amigo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,"POLYGON ((21.4395181 41.9897115, 21.4394636 41.9896614, 21.4393779 41.989713, 21.4393406 41.9897355, 21.4393952 41.9897856, 21.4395181 41.9897115))"
+445237144,,,,,restaurant,regional,,Kaj Zlate,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,"POLYGON ((21.4393779 41.989713, 21.4394636 41.9896614, 21.4393717 41.9895771, 21.4392651 41.9896413, 21.4392997 41.989673, 21.4393205 41.9896604, 21.4393779 41.989713))"
+445837935,,,,Galerija 7,restaurant,turkish,Galerry 7,Galerija 7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,"POLYGON ((21.4380534 42.001077, 21.437834 42.001151, 21.4378789 42.0012244, 21.4380982 42.0011503, 21.4380534 42.001077))"
+474873952,,,,Žabarot,restaurant,,,Kaj Žabarot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,"POLYGON ((21.4286974 42.001337, 21.4288263 42.00138, 21.4288066 42.0014129, 21.4287588 42.001397, 21.4287342 42.0014378, 21.428653 42.0014108, 21.4286974 42.001337))"
+477026719,,,,,restaurant,regional,,Čitalna,Chitalna,,,,,,,,,,outside,,,,,,,,,,,,,,,,,,,,,30,,,,,,,,,,,,no,,,,"POLYGON ((21.4220295 42.0024104, 21.4219665 42.0023474, 21.4221601 42.0022405, 21.4222231 42.0023034, 21.4220295 42.0024104))"
+477026724,,,,,restaurant,regional,Cardak,Čardak,Chardak,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"POLYGON ((21.4221597 42.0021192, 21.4220761 42.0020304, 21.4221979 42.001967, 21.4222816 42.0020559, 21.4221597 42.0021192))"
+477325813,,,,,restaurant,,Naša Sofra,Naša sofra,Nasha Sofra,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,Skopje,stobi,,"POLYGON ((21.4204319 42.0009268, 21.4202503 42.0008253, 21.4201615 42.0009111, 21.4203368 42.0010112, 21.4204319 42.0009268))"
+477325815,,,,,restaurant,,,Debar Maalo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,"POLYGON ((21.4203688 42.0015986, 21.4204304 42.0016664, 21.4205993 42.0015815, 21.4205376 42.0015138, 21.4203688 42.0015986))"
+477325816,Ckopje,1000,Oton Župančič,,restaurant,regional,Gurmet,Gurmet,,"09:00-24:00, Fr-Sa 09:00-01:00",,,,gurmet@restorani.com.mk,,,,,,Skopje,MK,,,,3,,,,,yes,yes,,yes,,,,,,,,,,yes,,,,,,,,,,,,,"POLYGON ((21.4208159 42.0012623, 21.4210035 42.0013505, 21.4210737 42.0012838, 21.4210149 42.0012456, 21.4210507 42.0012113, 21.4209043 42.0011463, 21.4208159 42.0012623))"
+477325818,Ckopje,1000,Miroslav Krleža,,restaurant,,,Nadžak,,,,,,,,,,,,,,,,,87,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,"POLYGON ((21.4214055 42.0014746, 21.421533 42.0014764, 21.4215364 42.0013431, 21.4214089 42.0013413, 21.4214055 42.0014746))"
+477325825,,,,Kancelarija,restaurant,,Kancelarija,Kancelarija,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kancelarija,,,,,yes,,,,,,,,,,,,,"POLYGON ((21.4223451 42.0017133, 21.4223518 42.0015937, 21.4221432 42.0015872, 21.4221365 42.0017068, 21.4223451 42.0017133))"
+477325827,,,,,restaurant,,Čamo,Čamo,Chamo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,"POLYGON ((21.422163 42.0021611, 21.4221094 42.0020803, 21.4219943 42.0021226, 21.422048 42.0022033, 21.422163 42.0021611))"
+477325830,,,Ǵorǵi Peškov,Ganza,restaurant,,Ganza,Ganza,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,"POLYGON ((21.4221641 42.0021587, 21.4222498 42.0022638, 21.4224134 42.00219, 21.4223277 42.002085, 21.4221641 42.0021587))"
+477325836,Ckopje,1000,Debarca,,restaurant,regional,,Antica,,,,,,,,yes,,,,,MK,,,,53,,,,,,,,,,,,,,,,,,yes,,,,,,,,,,,,,"POLYGON ((21.4194137 42.0013285, 21.419637 42.0012142, 21.4195509 42.0011212, 21.4193279 42.0012348, 21.4194137 42.0013285))"
+482846770,,,,,restaurant,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Antica,,,,,,,,,,,,,,,,,,outdoor_seating,"POLYGON ((21.419637 42.0012142, 21.4197571 42.0011528, 21.4196462 42.0010331, 21.4195262 42.0010945, 21.4195509 42.0011212, 21.419637 42.0012142))"

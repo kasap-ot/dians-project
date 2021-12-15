@@ -1,0 +1,1513 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmfilter 1.4.5">
+	<bounds minlat="41.9891" minlon="21.4125" maxlat="42.0032" maxlon="21.4462"/>
+	<node id="309894643" lat="41.9953933" lon="21.4315704" version="12" timestamp="2019-03-23T20:42:37Z" changeset="68454789" uid="9451067" user="b-jazz-bot">
+		<tag k="addr:city" v="Skopje"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Ploštad Makedonija"/>
+		<tag k="alt_name" v="Dal Met Fu"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="italian"/>
+		<tag k="int_name" v="Pelister"/>
+		<tag k="name" v="Pelister"/>
+		<tag k="name:en" v="Pelister"/>
+		<tag k="opening_hours" v="Mo-Th 07:00-00:00; Fr-Sa 07:00-01:00; Su 10:30-00:00"/>
+		<tag k="website" v="https://www.pelisterhotel.com.mk/"/>
+		<tag k="wheelchair" v="yes"/>
+		<tag k="wheelchair:description" v="Toilet not accessible"/>
+	</node>
+	<node id="367656617" lat="41.9922233" lon="21.4190018" version="5" timestamp="2016-04-16T17:48:42Z" changeset="38628030" uid="1468248" user="TheBlackMan"/>
+	<node id="367656619" lat="41.9922405" lon="21.4188135" version="6" timestamp="2016-04-16T17:48:42Z" changeset="38628030" uid="1468248" user="TheBlackMan"/>
+	<node id="367656621" lat="41.9925227" lon="21.4188602" version="5" timestamp="2016-04-16T17:48:42Z" changeset="38628030" uid="1468248" user="TheBlackMan"/>
+	<node id="367656623" lat="41.992484" lon="21.4192836" version="5" timestamp="2016-04-16T17:48:42Z" changeset="38628030" uid="1468248" user="TheBlackMan"/>
+	<node id="367656625" lat="41.9923419" lon="21.41926" version="5" timestamp="2016-04-16T17:48:42Z" changeset="38628030" uid="1468248" user="TheBlackMan"/>
+	<node id="411006922" lat="41.9947432" lon="21.4140669" version="6" timestamp="2016-04-09T20:05:26Z" changeset="38437093" uid="344903" user="Toyota_79">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="Intermeco"/>
+	</node>
+	<node id="418875414" lat="42.0015138" lon="21.4205376" version="5" timestamp="2018-11-24T23:25:56Z" changeset="64856101" uid="6970734" user="Dekacc"/>
+	<node id="444930912" lat="41.9989335" lon="21.4229703" version="7" timestamp="2019-01-13T19:41:58Z" changeset="66282672" uid="6970734" user="Dekacc"/>
+	<node id="459668914" lat="41.9943261" lon="21.4342799" version="8" timestamp="2021-03-04T14:05:10Z" changeset="100428008" uid="7140745" user="MatejMecka">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="italian"/>
+		<tag k="email" v="contact@restorangino.mk"/>
+		<tag k="level" v="1"/>
+		<tag k="name" v="Kaj Džino"/>
+		<tag k="name:en" v="Gino"/>
+		<tag k="opening_hours" v="Mo 08:00-24:00, Tu,We,Fr,Sa 09:00-24:00, Th 09:00-23:00, Su 09:00-01:00"/>
+		<tag k="outdoor_seating" v="yes"/>
+		<tag k="phone" v="+389 2 3121109"/>
+		<tag k="sells:ice_cream" v="yes"/>
+		<tag k="smoking" v="outside"/>
+		<tag k="website" v="http://www.restorangino.mk/"/>
+	</node>
+	<node id="459669063" lat="41.9952456" lon="21.4350117" version="17" timestamp="2021-01-31T17:23:17Z" changeset="98458677" uid="1468248" user="TheBlackMan">
+		<tag k="addr:city" v="Ckopje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:housename" v="Gradski Trgovski Centar Skopje"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Kej 13 Noemvri"/>
+		<tag k="addr:street:en" v="Kay 13th November"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="latin_american"/>
+		<tag k="int_name" v="Plaza de Toros"/>
+		<tag k="name" v="Plaza de Toros"/>
+	</node>
+	<node id="796178301" lat="42.0020559" lon="21.4222816" version="5" timestamp="2017-02-24T21:47:02Z" changeset="46380915" uid="2127961" user="BrookeEHarding"/>
+	<node id="908273433" lat="42.0003099" lon="21.4367576" version="3" timestamp="2015-06-25T15:48:05Z" changeset="32208128" uid="1468248" user="TheBlackMan">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="regional"/>
+		<tag k="name" v="Tupict"/>
+		<tag k="name:en" v="Turist"/>
+	</node>
+	<node id="1138894760" lat="42.0017068" lon="21.4221365" version="4" timestamp="2017-02-26T17:51:28Z" changeset="46421642" uid="4358750" user="mariegorman"/>
+	<node id="1359271233" lat="41.9952947" lon="21.4240658" version="4" timestamp="2017-12-16T23:03:22Z" changeset="54692334" uid="6970734" user="Dekacc"/>
+	<node id="1359271237" lat="41.9953699" lon="21.4234118" version="4" timestamp="2017-12-16T23:03:22Z" changeset="54692334" uid="6970734" user="Dekacc"/>
+	<node id="1359271955" lat="41.9952188" lon="21.4234452" version="5" timestamp="2017-12-16T23:03:22Z" changeset="54692334" uid="6970734" user="Dekacc"/>
+	<node id="1360096464" lat="41.9962603" lon="21.4221676" version="3" timestamp="2011-07-24T01:08:35Z" changeset="8811218" uid="480785" user="BNicovski"/>
+	<node id="1360096515" lat="41.9973872" lon="21.4225373" version="2" timestamp="2013-06-06T13:37:44Z" changeset="16444821" uid="131662" user="borces"/>
+	<node id="1360096525" lat="41.9962498" lon="21.4220069" version="3" timestamp="2011-07-24T01:08:35Z" changeset="8811218" uid="480785" user="BNicovski"/>
+	<node id="1360096558" lat="41.9973257" lon="21.4227885" version="2" timestamp="2013-06-06T13:37:45Z" changeset="16444821" uid="131662" user="borces"/>
+	<node id="1360096563" lat="41.9961549" lon="21.4221801" version="3" timestamp="2011-07-24T01:08:35Z" changeset="8811218" uid="480785" user="BNicovski"/>
+	<node id="1360096565" lat="41.9972628" lon="21.4225327" version="2" timestamp="2013-06-06T13:37:45Z" changeset="16444821" uid="131662" user="borces"/>
+	<node id="1360100782" lat="41.9951717" lon="21.4221287" version="3" timestamp="2012-08-24T15:59:03Z" changeset="12846710" uid="131662" user="borces"/>
+	<node id="1360100799" lat="41.9953541" lon="21.4182558" version="2" timestamp="2011-10-20T12:15:19Z" changeset="9608079" uid="315015" user="WernerP"/>
+	<node id="1360100817" lat="41.9950583" lon="21.4222794" version="3" timestamp="2012-08-24T15:59:03Z" changeset="12846710" uid="131662" user="borces"/>
+	<node id="1360100850" lat="41.9954035" lon="21.4184154" version="2" timestamp="2011-10-20T12:15:20Z" changeset="9608079" uid="315015" user="WernerP"/>
+	<node id="1360100879" lat="41.9956069" lon="21.4183242" version="2" timestamp="2011-10-20T12:15:21Z" changeset="9608079" uid="315015" user="WernerP"/>
+	<node id="1360100880" lat="41.9951854" lon="21.4222544" version="3" timestamp="2012-08-24T15:59:04Z" changeset="12846710" uid="131662" user="borces"/>
+	<node id="1371588464" lat="41.9990057" lon="21.4228854" version="4" timestamp="2019-01-13T19:41:58Z" changeset="66282672" uid="6970734" user="Dekacc"/>
+	<node id="1371588471" lat="41.9989973" lon="21.4230666" version="4" timestamp="2019-01-13T19:41:58Z" changeset="66282672" uid="6970734" user="Dekacc"/>
+	<node id="1371588475" lat="41.9990612" lon="21.4229605" version="5" timestamp="2019-01-13T19:41:58Z" changeset="66282672" uid="6970734" user="Dekacc"/>
+	<node id="1373103651" lat="42.0010112" lon="21.4203368" version="5" timestamp="2018-05-18T10:59:45Z" changeset="59076210" uid="131662" user="borces"/>
+	<node id="1373110836" lat="42.0014764" lon="21.421533" version="3" timestamp="2018-05-18T10:59:45Z" changeset="59076210" uid="131662" user="borces"/>
+	<node id="1373110858" lat="42.0012623" lon="21.4208159" version="8" timestamp="2018-05-18T10:59:45Z" changeset="59076210" uid="131662" user="borces"/>
+	<node id="1378087148" lat="41.9974288" lon="21.4226694" version="2" timestamp="2017-02-26T18:29:43Z" changeset="46422620" uid="4358750" user="mariegorman"/>
+	<node id="1380378702" lat="41.9985008" lon="21.415982" version="3" timestamp="2017-03-30T20:04:18Z" changeset="47304492" uid="344903" user="Toyota_79">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="Boemi"/>
+	</node>
+	<node id="1577162234" lat="42.002085" lon="21.4223277" version="3" timestamp="2017-02-26T17:51:29Z" changeset="46421642" uid="4358750" user="mariegorman"/>
+	<node id="1577167286" lat="41.9961443" lon="21.4220195" version="3" timestamp="2017-02-26T19:42:04Z" changeset="46424171" uid="4358750" user="mariegorman"/>
+	<node id="1747370831" lat="41.995565" lon="21.4181553" version="4" timestamp="2017-02-26T19:42:04Z" changeset="46424171" uid="4358750" user="mariegorman"/>
+	<node id="1747649203" lat="41.9946274" lon="21.4151525" version="2" timestamp="2020-09-16T19:47:27Z" changeset="91005096" uid="8525987" user="Anoesis">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="Krčma"/>
+	</node>
+	<node id="1748017584" lat="41.9904847" lon="21.4204907" version="3" timestamp="2015-04-28T13:26:50Z" changeset="30581469" uid="678915" user="dominator7">
+		<tag k="addr:city" v="Skopje"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="regional"/>
+		<tag k="name" v="Marana"/>
+		<tag k="takeaway" v="yes"/>
+	</node>
+	<node id="1751563134" lat="41.9947645" lon="21.4245254" version="7" timestamp="2019-05-11T16:08:18Z" changeset="70141270" uid="361707" user="0xF00F">
+		<tag k="addr:city" v="Ckopje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:housenumber" v="66"/>
+		<tag k="addr:street" v="Bulevar Kliment Ohridski"/>
+		<tag k="addr:street:en" v="Kliment Ohridski Boulevard"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="international"/>
+		<tag k="internet_access" v="wlan"/>
+		<tag k="internet_access:fee" v="no"/>
+		<tag k="name" v="Pastel Wine &#38; Dine"/>
+		<tag k="name:en" v="Pastel Wine &#38; Dine"/>
+		<tag k="opening_hours" v="Mo-Fr 06:30-21:00; Sa 06:30-17:00; Su 06:30-16:00"/>
+		<tag k="payment:american_express" v="no"/>
+		<tag k="payment:coins" v="yes"/>
+		<tag k="payment:maestro" v="yes"/>
+		<tag k="payment:mastercard" v="yes"/>
+		<tag k="payment:notes" v="yes"/>
+		<tag k="payment:visa" v="yes"/>
+		<tag k="payment:visa_electron" v="yes"/>
+		<tag k="phone" v="+389 2 3214447"/>
+		<tag k="smoking" v="outside"/>
+		<tag k="takeaway" v="yes"/>
+		<tag k="website" v="http://pastel.mk/"/>
+		<tag k="wheelchair" v="yes"/>
+	</node>
+	<node id="1752178268" lat="41.9922398" lon="21.4163482" version="2" timestamp="2012-10-27T18:32:16Z" changeset="13652855" uid="398751" user="arangel">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="italian"/>
+		<tag k="name" v="511"/>
+	</node>
+	<node id="1770866402" lat="41.9987097" lon="21.4207447" version="6" timestamp="2021-02-22T11:46:11Z" changeset="99743137" uid="7140745" user="MatejMecka">
+		<tag k="addr:housename" v="libertas"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="T.C Bunjakovec prv kat lok 36"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="pizza"/>
+		<tag k="description" v="Coffee&#38;pizza restaurant Libertas"/>
+		<tag k="name" v="Picerija Libertas"/>
+		<tag k="phone" v="+38970567295"/>
+	</node>
+	<node id="1810967608" lat="42.001337" lon="21.4286975" version="4" timestamp="2017-12-13T14:10:54Z" changeset="54597686" uid="6970734" user="Dekacc"/>
+	<node id="1860365659" lat="41.9896604" lon="21.4393206" version="5" timestamp="2019-01-05T12:39:49Z" changeset="66045865" uid="6970734" user="Dekacc"/>
+	<node id="1866027761" lat="41.9890215" lon="21.4297853" version="3" timestamp="2017-02-27T13:18:34Z" changeset="46442216" uid="4358750" user="mariegorman"/>
+	<node id="1866944537" lat="41.9990664" lon="21.4253032" version="3" timestamp="2019-02-15T22:18:29Z" changeset="67241184" uid="9319448" user="Unicorn Ostrich"/>
+	<node id="1866944539" lat="41.9990018" lon="21.4252373" version="3" timestamp="2019-02-15T22:18:29Z" changeset="67241184" uid="9319448" user="Unicorn Ostrich"/>
+	<node id="1866944546" lat="41.9990275" lon="21.4253723" version="3" timestamp="2019-02-15T22:18:29Z" changeset="67241184" uid="9319448" user="Unicorn Ostrich"/>
+	<node id="1866944550" lat="41.9991273" lon="21.4254909" version="3" timestamp="2019-02-15T22:18:29Z" changeset="67241184" uid="9319448" user="Unicorn Ostrich"/>
+	<node id="1866944551" lat="41.9991252" lon="21.4253886" version="3" timestamp="2019-02-15T22:18:29Z" changeset="67241184" uid="9319448" user="Unicorn Ostrich"/>
+	<node id="1866944556" lat="41.9990674" lon="21.4256593" version="3" timestamp="2019-02-15T22:18:29Z" changeset="67241184" uid="9319448" user="Unicorn Ostrich"/>
+	<node id="1866944557" lat="41.9991496" lon="21.4255137" version="3" timestamp="2019-02-15T22:18:29Z" changeset="67241184" uid="9319448" user="Unicorn Ostrich"/>
+	<node id="1866944563" lat="41.9991631" lon="21.4254274" version="3" timestamp="2019-02-15T22:18:29Z" changeset="67241184" uid="9319448" user="Unicorn Ostrich"/>
+	<node id="1866944574" lat="41.9990953" lon="21.4254416" version="3" timestamp="2019-02-15T22:18:29Z" changeset="67241184" uid="9319448" user="Unicorn Ostrich"/>
+	<node id="1867057578" lat="41.9997532" lon="21.4241357" version="4" timestamp="2019-03-26T22:22:35Z" changeset="68565916" uid="6970734" user="Dekacc"/>
+	<node id="1867057890" lat="41.9995543" lon="21.4239225" version="4" timestamp="2019-03-26T22:22:35Z" changeset="68565916" uid="6970734" user="Dekacc"/>
+	<node id="1867057892" lat="41.9998245" lon="21.4240152" version="5" timestamp="2019-03-26T22:22:35Z" changeset="68565916" uid="6970734" user="Dekacc"/>
+	<node id="1867058167" lat="41.9996257" lon="21.423802" version="4" timestamp="2019-03-26T22:22:35Z" changeset="68565916" uid="6970734" user="Dekacc"/>
+	<node id="1867151643" lat="41.9969391" lon="21.4382846" version="5" timestamp="2016-04-10T09:44:34Z" changeset="38446385" uid="1468248" user="TheBlackMan"/>
+	<node id="1867151645" lat="41.9966936" lon="21.4383675" version="5" timestamp="2016-04-10T09:44:34Z" changeset="38446385" uid="1468248" user="TheBlackMan"/>
+	<node id="1867151650" lat="41.9967344" lon="21.4385862" version="5" timestamp="2016-04-10T09:44:34Z" changeset="38446385" uid="1468248" user="TheBlackMan"/>
+	<node id="1867151651" lat="41.9969799" lon="21.4385033" version="5" timestamp="2016-04-10T09:44:34Z" changeset="38446385" uid="1468248" user="TheBlackMan"/>
+	<node id="1867176020" lat="41.9957062" lon="21.4304595" version="7" timestamp="2019-03-17T10:38:39Z" changeset="68224767" uid="6970734" user="Dekacc">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="international"/>
+		<tag k="int_name" v="Trend"/>
+		<tag k="name" v="Trend"/>
+		<tag k="name:en" v="Trend"/>
+		<tag k="wheelchair" v="limited"/>
+		<tag k="wheelchair:description" v="Toilet not accessible"/>
+	</node>
+	<node id="1868812117" lat="41.9987513" lon="21.4204158" version="6" timestamp="2021-02-28T19:46:06Z" changeset="100153932" uid="7140745" user="MatejMecka">
+		<tag k="addr:city" v="Ckopje"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Vladimir Poležanovski"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="barbecue"/>
+		<tag k="name" v="Destan"/>
+		<tag k="opening_hours" v="Mo-Su 09:00-23:00"/>
+		<tag k="outdoor_seating" v="yes"/>
+		<tag k="phone" v="+38923127324"/>
+		<tag k="smoking" v="separated"/>
+		<tag k="website" v="https://destan.mk/pocetna/"/>
+	</node>
+	<node id="1869864074" lat="41.9956682" lon="21.4273166" version="1" timestamp="2012-08-17T09:09:47Z" changeset="12759915" uid="131662" user="borces"/>
+	<node id="1869864172" lat="41.9956796" lon="21.4271741" version="1" timestamp="2012-08-17T09:09:51Z" changeset="12759915" uid="131662" user="borces"/>
+	<node id="1869864310" lat="41.9957475" lon="21.427328" version="1" timestamp="2012-08-17T09:09:57Z" changeset="12759915" uid="131662" user="borces"/>
+	<node id="1928095824" lat="42.0009111" lon="21.4201615" version="5" timestamp="2018-05-18T10:59:45Z" changeset="59076210" uid="131662" user="borces"/>
+	<node id="1985948203" lat="41.9922245" lon="21.416522" version="1" timestamp="2012-10-27T18:33:16Z" changeset="13652855" uid="398751" user="arangel">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="italian"/>
+		<tag k="name" v="Balila"/>
+	</node>
+	<node id="1999321631" lat="42.001077" lon="21.4380534" version="3" timestamp="2018-07-21T19:59:46Z" changeset="60938360" uid="87038" user="H@jo"/>
+	<node id="1999633538" lat="41.9913688" lon="21.4280088" version="5" timestamp="2017-12-17T13:10:46Z" changeset="54702866" uid="6970734" user="Dekacc">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="Bifinja - Ramstor"/>
+		<tag k="name:en" v="Food Court Ramstore"/>
+	</node>
+	<node id="2005843099" lat="41.996493" lon="21.4281815" version="3" timestamp="2017-12-16T22:50:10Z" changeset="54692081" uid="6970734" user="Dekacc"/>
+	<node id="2005843109" lat="41.9965143" lon="21.4280676" version="4" timestamp="2017-12-16T22:50:10Z" changeset="54692081" uid="6970734" user="Dekacc"/>
+	<node id="2005843113" lat="41.9963311" lon="21.4281268" version="3" timestamp="2017-12-16T22:50:10Z" changeset="54692081" uid="6970734" user="Dekacc"/>
+	<node id="2005843205" lat="41.9963567" lon="21.4279895" version="3" timestamp="2017-12-16T22:50:10Z" changeset="54692081" uid="6970734" user="Dekacc"/>
+	<node id="2105387352" lat="42.0001581" lon="21.4252581" version="4" timestamp="2015-05-07T19:43:30Z" changeset="30883452" uid="1468248" user="TheBlackMan">
+		<tag k="addr:city" v="Skopje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:housenumber" v="75"/>
+		<tag k="addr:street" v="Orce Nikolov"/>
+		<tag k="addr:street:en" v="Orce Nikolov"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="int_name" v="Brukilnski"/>
+		<tag k="name" v="Bruklinski"/>
+		<tag k="name:en" v="Bruklinski"/>
+		<tag k="outdoor_seating" v="yes"/>
+		<tag k="phone" v="+389 2 6091844"/>
+		<tag k="smoking" v="separated"/>
+		<tag k="wheelchair" v="limited"/>
+	</node>
+	<node id="2159535851" lat="41.9953199" lon="21.4347685" version="11" timestamp="2019-05-16T13:11:25Z" changeset="70318404" uid="158784" user="bjankuloski">
+		<tag k="addr:city" v="Ckopje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:housename" v="Gradski Trgovski Centar Skopje"/>
+		<tag k="addr:housenumber" v="2/4"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Kej 13 Noemvri"/>
+		<tag k="addr:street:en" v="Kay 13th November"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="international"/>
+		<tag k="name" v="Bela vista"/>
+		<tag k="name:en" v="Bella Vista"/>
+		<tag k="opening_hours" v="10:00-24:00, Fr-Sa 10:00-01:00"/>
+		<tag k="website" v="www.bellavistaskopje.mk"/>
+	</node>
+	<node id="2322886873" lat="41.9952825" lon="21.4302915" version="2" timestamp="2013-05-28T13:45:06Z" changeset="16324087" uid="131662" user="borces">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="regional"/>
+		<tag k="int_name" v="Arabeska"/>
+		<tag k="name" v="Arabeska"/>
+		<tag k="name:en" v="Arabesque"/>
+	</node>
+	<node id="2323346377" lat="42.0016166" lon="21.4259955" version="4" timestamp="2017-11-27T11:39:17Z" changeset="54119616" uid="6970734" user="Dekacc"/>
+	<node id="2323355486" lat="41.9957589" lon="21.4271856" version="2" timestamp="2017-02-26T20:05:09Z" changeset="46424667" uid="4358750" user="mariegorman"/>
+	<node id="2334423428" lat="41.99725" lon="21.4226709" version="1" timestamp="2013-06-06T13:37:44Z" changeset="16444821" uid="131662" user="borces"/>
+	<node id="2335358701" lat="41.9954458" lon="21.4240324" version="4" timestamp="2017-12-16T23:03:22Z" changeset="54692334" uid="6970734" user="Dekacc"/>
+	<node id="2411332043" lat="42.0022033" lon="21.422048" version="4" timestamp="2017-12-14T15:53:38Z" changeset="54628124" uid="6970734" user="Dekacc"/>
+	<node id="2552845143" lat="42.0016032" lon="21.4261793" version="3" timestamp="2017-11-27T11:39:17Z" changeset="54119616" uid="6970734" user="Dekacc"/>
+	<node id="2552845156" lat="42.0015845" lon="21.4259656" version="3" timestamp="2017-11-27T11:39:17Z" changeset="54119616" uid="6970734" user="Dekacc"/>
+	<node id="2552845225" lat="42.0015902" lon="21.426047" version="3" timestamp="2017-11-27T11:39:17Z" changeset="54119616" uid="6970734" user="Dekacc"/>
+	<node id="2552845237" lat="42.001573" lon="21.4259879" version="3" timestamp="2017-11-27T11:39:17Z" changeset="54119616" uid="6970734" user="Dekacc"/>
+	<node id="2552845262" lat="42.0015163" lon="21.4260987" version="3" timestamp="2017-11-27T11:39:17Z" changeset="54119616" uid="6970734" user="Dekacc"/>
+	<node id="2717099200" lat="42.0023035" lon="21.4222231" version="3" timestamp="2017-12-14T15:53:38Z" changeset="54628124" uid="6970734" user="Dekacc"/>
+	<node id="2717099203" lat="42.0024104" lon="21.4220295" version="3" timestamp="2017-12-14T15:53:38Z" changeset="54628124" uid="6970734" user="Dekacc"/>
+	<node id="2836006284" lat="41.9931566" lon="21.4373419" version="2" timestamp="2018-11-29T18:43:10Z" changeset="65020810" uid="1025148" user="user_1025148"/>
+	<node id="2836006285" lat="41.9931313" lon="21.4374766" version="1" timestamp="2014-05-04T15:20:54Z" changeset="22127661" uid="2037651" user="Francois555"/>
+	<node id="2836006286" lat="41.9930786" lon="21.4374587" version="1" timestamp="2014-05-04T15:20:54Z" changeset="22127661" uid="2037651" user="Francois555"/>
+	<node id="2836006287" lat="41.9931039" lon="21.437324" version="2" timestamp="2018-11-29T18:43:10Z" changeset="65020810" uid="1025148" user="user_1025148"/>
+	<node id="3101725383" lat="41.9945243" lon="21.4413794" version="2" timestamp="2016-04-24T09:25:10Z" changeset="38829151" uid="1468248" user="TheBlackMan"/>
+	<node id="3101725384" lat="41.9945425" lon="21.4415649" version="2" timestamp="2016-04-24T09:25:10Z" changeset="38829151" uid="1468248" user="TheBlackMan"/>
+	<node id="3101725385" lat="41.9943971" lon="21.4415907" version="2" timestamp="2016-04-24T09:25:10Z" changeset="38829151" uid="1468248" user="TheBlackMan"/>
+	<node id="3101725386" lat="41.9943789" lon="21.4414052" version="2" timestamp="2016-04-24T09:25:10Z" changeset="38829151" uid="1468248" user="TheBlackMan"/>
+	<node id="3101725389" lat="41.9944944" lon="21.4415735" version="2" timestamp="2016-04-24T09:25:10Z" changeset="38829151" uid="1468248" user="TheBlackMan"/>
+	<node id="3101726040" lat="42.0000179" lon="21.4366005" version="2" timestamp="2015-06-25T15:48:03Z" changeset="32208128" uid="1468248" user="TheBlackMan">
+		<tag k="addr:city" v="Ckopje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:housename" v="Kapan AN"/>
+		<tag k="addr:housename:en" v="Kapan AN"/>
+		<tag k="addr:housenumber" v="14"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Gradište"/>
+		<tag k="addr:street:en" v="Gradiste"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="regional"/>
+		<tag k="email" v="pivnicaan@yahoo.com"/>
+		<tag k="internet_access" v="wlan"/>
+		<tag k="internet_access:fee" v="no"/>
+		<tag k="name" v="Pivnica AN"/>
+		<tag k="name:en" v="Beerhouse AN"/>
+		<tag k="opening_hours" v="Mo-Sa 09:00-24:00; Su 12:00-24:00"/>
+		<tag k="outdoor_seating" v="yes"/>
+		<tag k="payment:american_express" v="yes"/>
+		<tag k="payment:coins" v="yes"/>
+		<tag k="payment:mastercard" v="yes"/>
+		<tag k="payment:notes" v="yes"/>
+		<tag k="payment:visa" v="yes"/>
+		<tag k="phone" v="+389 02 321 2111"/>
+		<tag k="smoking" v="separated"/>
+		<tag k="website" v="http://pivnicaan.mk/"/>
+	</node>
+	<node id="3103097500" lat="42.0000105" lon="21.4144957" version="2" timestamp="2016-04-26T14:47:06Z" changeset="38888551" uid="1468248" user="TheBlackMan"/>
+	<node id="3103097501" lat="42.0001265" lon="21.4145262" version="2" timestamp="2016-04-26T14:47:06Z" changeset="38888551" uid="1468248" user="TheBlackMan"/>
+	<node id="3103097502" lat="42.0001094" lon="21.414643" version="2" timestamp="2016-04-26T14:47:06Z" changeset="38888551" uid="1468248" user="TheBlackMan"/>
+	<node id="3103097503" lat="41.9999935" lon="21.4146125" version="2" timestamp="2016-04-26T14:47:06Z" changeset="38888551" uid="1468248" user="TheBlackMan"/>
+	<node id="3341289789" lat="41.9925716" lon="21.4297981" version="4" timestamp="2018-04-26T18:35:28Z" changeset="58453516" uid="6970734" user="Dekacc">
+		<tag k="addr:city" v="Skopje"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Makedonija"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="Damaskino"/>
+	</node>
+	<node id="3395009515" lat="41.9891793" lon="21.429442" version="2" timestamp="2015-04-28T13:26:49Z" changeset="30581469" uid="678915" user="dominator7"/>
+	<node id="3427393078" lat="42.0023474" lon="21.4219665" version="5" timestamp="2017-12-14T15:53:38Z" changeset="54628124" uid="6970734" user="Dekacc"/>
+	<node id="3484100381" lat="41.989061" lon="21.42981" version="2" timestamp="2017-02-27T13:18:34Z" changeset="46442216" uid="4358750" user="mariegorman"/>
+	<node id="3484100382" lat="41.9892188" lon="21.4294738" version="2" timestamp="2017-02-27T13:18:34Z" changeset="46442216" uid="4358750" user="mariegorman"/>
+	<node id="3484100384" lat="41.9917018" lon="21.4231542" version="2" timestamp="2017-01-13T12:23:59Z" changeset="45130577" uid="131662" user="borces">
+		<tag k="addr:city" v="Skopje"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="Dal Fufo - Galija"/>
+	</node>
+	<node id="3505013893" lat="41.9947506" lon="21.4319604" version="3" timestamp="2018-01-16T17:01:30Z" changeset="55499236" uid="6970734" user="Dekacc">
+		<tag k="addr:city" v="Skopje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="11 Oktomvri"/>
+		<tag k="addr:street:en" v="11 Oktomvri"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="kebab"/>
+		<tag k="name" v="Destan"/>
+		<tag k="opening_hours" v="08:00-23:00"/>
+		<tag k="outdoor_seating" v="yes"/>
+		<tag k="smoking" v="separated"/>
+		<tag k="wheelchair" v="yes"/>
+	</node>
+	<node id="3505013993" lat="41.9950911" lon="21.4317257" version="2" timestamp="2019-05-06T12:38:13Z" changeset="69934530" uid="158784" user="bjankuloski">
+		<tag k="addr:city" v="Skopje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:housenumber" v="2"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="11 Oktomvri"/>
+		<tag k="addr:street:en" v="11 Oktomvri"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="italian"/>
+		<tag k="int_name" v="La Terrazza"/>
+		<tag k="name" v="La Teraca"/>
+		<tag k="opening_hours" v="08:00-24:00, Fr-Sa 08:00-01:00"/>
+		<tag k="outdoor_seating" v="yes"/>
+		<tag k="phone" v="+389 2 3113380"/>
+		<tag k="smoking" v="separated"/>
+		<tag k="wheelchair" v="yes"/>
+	</node>
+	<node id="3629442283" lat="41.9948201" lon="21.4130224" version="2" timestamp="2019-05-26T02:09:42Z" changeset="70622557" uid="6970734" user="Dekacc"/>
+	<node id="3629442362" lat="41.9949469" lon="21.4130994" version="2" timestamp="2019-05-26T02:09:42Z" changeset="70622557" uid="6970734" user="Dekacc"/>
+	<node id="3629442712" lat="41.9947965" lon="21.4132047" version="2" timestamp="2019-05-26T02:09:42Z" changeset="70622557" uid="6970734" user="Dekacc"/>
+	<node id="3629444919" lat="41.9947353" lon="21.4131921" version="2" timestamp="2019-05-26T02:09:42Z" changeset="70622557" uid="6970734" user="Dekacc"/>
+	<node id="3629444920" lat="41.994863" lon="21.4130821" version="3" timestamp="2019-05-26T02:09:42Z" changeset="70622557" uid="6970734" user="Dekacc"/>
+	<node id="3629444921" lat="41.994973" lon="21.4129034" version="2" timestamp="2019-05-26T02:09:42Z" changeset="70622557" uid="6970734" user="Dekacc"/>
+	<node id="3629445632" lat="41.9947865" lon="21.4132925" version="2" timestamp="2019-05-26T02:09:42Z" changeset="70622557" uid="6970734" user="Dekacc"/>
+	<node id="3629445633" lat="41.9949218" lon="21.4133203" version="2" timestamp="2019-05-26T02:09:42Z" changeset="70622557" uid="6970734" user="Dekacc"/>
+	<node id="3629445634" lat="41.9949344" lon="21.4128985" version="2" timestamp="2019-05-26T02:09:42Z" changeset="70622557" uid="6970734" user="Dekacc"/>
+	<node id="3629445635" lat="41.9949344" lon="21.4129332" version="2" timestamp="2019-05-26T02:09:42Z" changeset="70622557" uid="6970734" user="Dekacc"/>
+	<node id="3629466115" lat="41.9947505" lon="21.413059" version="2" timestamp="2019-05-26T02:09:42Z" changeset="70622557" uid="6970734" user="Dekacc"/>
+	<node id="3629466116" lat="41.994833" lon="21.4129133" version="2" timestamp="2019-05-26T02:09:42Z" changeset="70622557" uid="6970734" user="Dekacc"/>
+	<node id="3678871629" lat="42.0010594" lon="21.419926" version="3" timestamp="2018-11-25T11:47:58Z" changeset="64864936" uid="6970734" user="Dekacc"/>
+	<node id="3678871841" lat="42.0011296" lon="21.4198035" version="3" timestamp="2018-11-25T11:47:58Z" changeset="64864936" uid="6970734" user="Dekacc"/>
+	<node id="3678872133" lat="42.0009567" lon="21.4198196" version="3" timestamp="2018-11-25T11:47:58Z" changeset="64864936" uid="6970734" user="Dekacc"/>
+	<node id="3678872134" lat="42.0010269" lon="21.419697" version="3" timestamp="2018-11-25T11:47:58Z" changeset="64864936" uid="6970734" user="Dekacc"/>
+	<node id="3707090923" lat="41.997226" lon="21.4170693" version="1" timestamp="2015-08-20T19:33:55Z" changeset="33469644" uid="834086" user="vpettenati">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="regional"/>
+		<tag k="name" v="Esnaf kaj dare"/>
+	</node>
+	<node id="3779543187" lat="42.0013285" lon="21.4194137" version="6" timestamp="2018-11-25T11:47:59Z" changeset="64864936" uid="6970734" user="Dekacc"/>
+	<node id="3832475129" lat="41.9900801" lon="21.4403034" version="2" timestamp="2018-04-13T08:07:36Z" changeset="58056648" uid="131662" user="borces"/>
+	<node id="3832475130" lat="41.9900041" lon="21.4404259" version="3" timestamp="2018-04-13T08:07:36Z" changeset="58056648" uid="131662" user="borces"/>
+	<node id="3832475131" lat="41.9896205" lon="21.4392" version="3" timestamp="2019-01-05T12:39:49Z" changeset="66045865" uid="6970734" user="Dekacc"/>
+	<node id="3832475135" lat="41.9922973" lon="21.4427246" version="1" timestamp="2015-11-12T12:19:15Z" changeset="35259880" uid="131662" user="borces">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="Lezet"/>
+	</node>
+	<node id="3832475141" lat="41.9897115" lon="21.4395182" version="3" timestamp="2019-01-05T12:39:49Z" changeset="66045865" uid="6970734" user="Dekacc"/>
+	<node id="3832475144" lat="41.9899031" lon="21.4403123" version="2" timestamp="2018-04-13T08:07:36Z" changeset="58056648" uid="131662" user="borces"/>
+	<node id="3832475145" lat="41.9899792" lon="21.4401899" version="2" timestamp="2018-04-13T08:07:36Z" changeset="58056648" uid="131662" user="borces"/>
+	<node id="3832475147" lat="41.9922032" lon="21.4422139" version="1" timestamp="2015-11-12T12:19:15Z" changeset="35259880" uid="131662" user="borces">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="Kaj Zlate"/>
+	</node>
+	<node id="3861007620" lat="41.9964577" lon="21.4280237" version="3" timestamp="2017-12-16T22:50:10Z" changeset="54692081" uid="6970734" user="Dekacc"/>
+	<node id="3861007622" lat="41.9964534" lon="21.428047" version="3" timestamp="2017-12-16T22:50:10Z" changeset="54692081" uid="6970734" user="Dekacc"/>
+	<node id="3920570902" lat="41.9897585" lon="21.4260203" version="2" timestamp="2016-04-10T09:44:48Z" changeset="38446385" uid="1468248" user="TheBlackMan"/>
+	<node id="3920570909" lat="41.9898791" lon="21.4257641" version="2" timestamp="2016-04-10T09:44:48Z" changeset="38446385" uid="1468248" user="TheBlackMan"/>
+	<node id="3920570913" lat="41.9899133" lon="21.4261521" version="2" timestamp="2016-04-10T09:44:48Z" changeset="38446385" uid="1468248" user="TheBlackMan"/>
+	<node id="3920570915" lat="41.9900338" lon="21.4258958" version="2" timestamp="2016-04-10T09:44:48Z" changeset="38446385" uid="1468248" user="TheBlackMan"/>
+	<node id="4004645106" lat="41.9957324" lon="21.4301301" version="3" timestamp="2019-05-06T12:38:13Z" changeset="69934530" uid="158784" user="bjankuloski">
+		<tag k="addr:city" v="Ckopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:housenumber" v="3"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Maksim Gorki"/>
+		<tag k="addr:street:en" v="Maksim Gorki"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="chinese"/>
+		<tag k="email" v="reservation@pekinggarden.mk"/>
+		<tag k="int_name" v="Peking Garden"/>
+		<tag k="name" v="Peking Garden"/>
+		<tag k="opening_hours" v="Mo-Sa 11:00-24:00; Su 12:00-23:00"/>
+		<tag k="phone" v="+389 2 3221173"/>
+		<tag k="website" v="www.pekinggarden.mk"/>
+	</node>
+	<node id="4126731965" lat="41.9973163" lon="21.434577" version="1" timestamp="2016-04-16T17:47:44Z" changeset="38628030" uid="1468248" user="TheBlackMan">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="international"/>
+		<tag k="name" v="Sky restoranot"/>
+		<tag k="name:en" v="Sky Restaurant"/>
+		<tag k="operator" v="Hotel Stone Bridge"/>
+	</node>
+	<node id="4126731966" lat="41.9923634" lon="21.419025" version="2" timestamp="2017-02-26T19:42:05Z" changeset="46424171" uid="4358750" user="mariegorman"/>
+	<node id="4128439199" lat="42.0016449" lon="21.4260978" version="2" timestamp="2017-11-27T11:39:17Z" changeset="54119616" uid="6970734" user="Dekacc"/>
+	<node id="4149490289" lat="41.9933026" lon="21.4300742" version="3" timestamp="2021-07-21T11:20:18Z" changeset="108362001" uid="7140745" user="MatejMecka">
+		<tag k="addr:city" v="Skopje"/>
+		<tag k="addr:housenumber" v="11"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Makedonija"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="mexican"/>
+		<tag k="email" v="info@amigos.com.mk"/>
+		<tag k="name" v="Amigos Meksikanska Kantina"/>
+		<tag k="name:en" v="Amigos Mexican Cantina"/>
+		<tag k="opening_hours" v="Mo-Th 08:00-24:00, Fr,Sa 08:00-01:00, Su 10:00-24:00"/>
+		<tag k="outdoor_seating" v="yes"/>
+		<tag k="phone" v="+389 71 230314"/>
+		<tag k="smoking" v="outside"/>
+		<tag k="takeaway" v="yes"/>
+		<tag k="website" v="http://www.amigos.com.mk/"/>
+		<tag k="wheelchair" v="yes"/>
+	</node>
+	<node id="4195733217" lat="41.9955972" lon="21.4338587" version="6" timestamp="2019-05-16T13:11:24Z" changeset="70318404" uid="158784" user="bjankuloski">
+		<tag k="addr:city" v="Ckopje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:housename" v="Gradski Trgovski Centar Skopje"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Kej 13 Noemvri"/>
+		<tag k="addr:street:en" v="Kay 13th November"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="international"/>
+		<tag k="name" v="Soul kičen"/>
+		<tag k="name:en" v="Soul-Kitchen"/>
+		<tag k="operator" v="Soul-Kitchen"/>
+		<tag k="outdoor_seating" v="yes"/>
+		<tag k="smoking" v="outside"/>
+	</node>
+	<node id="4275843195" lat="41.9969599" lon="21.4160063" version="1" timestamp="2016-07-01T15:17:24Z" changeset="40419745" uid="131662" user="borces">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="Lavče"/>
+	</node>
+	<node id="4304422595" lat="41.9950446" lon="21.4221538" version="3" timestamp="2017-02-26T19:42:05Z" changeset="46424171" uid="4358750" user="mariegorman"/>
+	<node id="4346542839" lat="41.9927317" lon="21.4301208" version="2" timestamp="2018-01-17T00:23:15Z" changeset="55508620" uid="6970734" user="Dekacc">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="internet_access" v="wlan"/>
+		<tag k="name" v="Lounge Bar &#38; Restaurant &#34;Square 21&#34;"/>
+	</node>
+	<node id="4426902645" lat="41.989444" lon="21.4391882" version="2" timestamp="2019-01-05T12:39:49Z" changeset="66045865" uid="6970734" user="Dekacc"/>
+	<node id="4426902647" lat="41.9895097" lon="21.4390791" version="2" timestamp="2019-01-05T12:39:49Z" changeset="66045865" uid="6970734" user="Dekacc"/>
+	<node id="4426902650" lat="41.9895548" lon="21.4393091" version="2" timestamp="2019-01-05T12:39:49Z" changeset="66045865" uid="6970734" user="Dekacc"/>
+	<node id="4426902651" lat="41.9895771" lon="21.4393717" version="2" timestamp="2019-01-05T12:39:49Z" changeset="66045865" uid="6970734" user="Dekacc"/>
+	<node id="4426902653" lat="41.9896051" lon="21.4392256" version="2" timestamp="2019-01-05T12:39:49Z" changeset="66045865" uid="6970734" user="Dekacc"/>
+	<node id="4426902656" lat="41.9896413" lon="21.4392651" version="2" timestamp="2019-01-05T12:39:49Z" changeset="66045865" uid="6970734" user="Dekacc"/>
+	<node id="4426902658" lat="41.9896614" lon="21.4394636" version="2" timestamp="2019-01-05T12:39:49Z" changeset="66045865" uid="6970734" user="Dekacc"/>
+	<node id="4426902659" lat="41.989673" lon="21.4392997" version="2" timestamp="2019-01-05T12:39:49Z" changeset="66045865" uid="6970734" user="Dekacc"/>
+	<node id="4426902661" lat="41.989713" lon="21.4393779" version="2" timestamp="2019-01-05T12:39:49Z" changeset="66045865" uid="6970734" user="Dekacc"/>
+	<node id="4426902662" lat="41.9897355" lon="21.4393406" version="2" timestamp="2019-01-05T12:39:49Z" changeset="66045865" uid="6970734" user="Dekacc"/>
+	<node id="4426902663" lat="41.9897856" lon="21.4393952" version="2" timestamp="2019-01-05T12:39:49Z" changeset="66045865" uid="6970734" user="Dekacc"/>
+	<node id="4431829369" lat="42.001151" lon="21.437834" version="2" timestamp="2018-07-21T19:59:46Z" changeset="60938360" uid="87038" user="H@jo"/>
+	<node id="4431829370" lat="42.0011503" lon="21.4380982" version="2" timestamp="2018-07-21T19:59:46Z" changeset="60938360" uid="87038" user="H@jo"/>
+	<node id="4431829371" lat="42.0012244" lon="21.4378789" version="2" timestamp="2018-07-21T19:59:46Z" changeset="60938360" uid="87038" user="H@jo"/>
+	<node id="4436518191" lat="41.9996618" lon="21.4362461" version="2" timestamp="2016-10-10T14:32:01Z" changeset="42778759" uid="4669141" user="Jing Yong">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="Kaj Serdarot"/>
+		<tag k="name:mk" v="Kaj Cerdarot"/>
+	</node>
+	<node id="4436534289" lat="41.9996701" lon="21.436081" version="1" timestamp="2016-10-07T17:16:52Z" changeset="42716849" uid="4669141" user="Jing Yong">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="Destan"/>
+		<tag k="name:mk" v="Destan"/>
+	</node>
+	<node id="4436534489" lat="41.9994953" lon="21.4355402" version="2" timestamp="2019-05-16T12:44:26Z" changeset="70317238" uid="158784" user="bjankuloski">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="Avstriska palta"/>
+		<tag k="name:en" v="Austrian Palace"/>
+		<tag k="name:mk" v="Austrian Palace"/>
+	</node>
+	<node id="4459578969" lat="41.9949989" lon="21.4355402" version="2" timestamp="2019-05-16T13:11:25Z" changeset="70318404" uid="158784" user="bjankuloski">
+		<tag k="addr:city" v="Ckopje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:housename" v="Gradski Trgovski Centar Skopje"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Kej 13 Noemvri"/>
+		<tag k="addr:street:en" v="Kay 13th November"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="international"/>
+		<tag k="int_name" v="Amica"/>
+		<tag k="level" v="1"/>
+		<tag k="name" v="Amika"/>
+	</node>
+	<node id="4471884331" lat="41.9988748" lon="21.4254625" version="4" timestamp="2019-02-15T22:18:30Z" changeset="67241184" uid="9319448" user="Unicorn Ostrich"/>
+	<node id="4481662566" lat="41.995703" lon="21.4335119" version="4" timestamp="2019-05-16T13:11:24Z" changeset="70318404" uid="158784" user="bjankuloski">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="italian"/>
+		<tag k="int_name" v="Dion"/>
+		<tag k="name" v="Dion"/>
+	</node>
+	<node id="4687349433" lat="42.00138" lon="21.4288264" version="2" timestamp="2017-12-13T14:10:54Z" changeset="54597686" uid="6970734" user="Dekacc"/>
+	<node id="4687349434" lat="42.0014129" lon="21.4288066" version="2" timestamp="2017-12-13T14:10:54Z" changeset="54597686" uid="6970734" user="Dekacc"/>
+	<node id="4687349435" lat="42.001397" lon="21.4287588" version="2" timestamp="2017-12-13T14:10:54Z" changeset="54597686" uid="6970734" user="Dekacc"/>
+	<node id="4687349436" lat="42.0014378" lon="21.4287342" version="2" timestamp="2017-12-13T14:10:54Z" changeset="54597686" uid="6970734" user="Dekacc"/>
+	<node id="4687349437" lat="42.0014108" lon="21.428653" version="2" timestamp="2017-12-13T14:10:54Z" changeset="54597686" uid="6970734" user="Dekacc"/>
+	<node id="4704377563" lat="42.0022405" lon="21.4221601" version="2" timestamp="2017-12-14T15:53:38Z" changeset="54628124" uid="6970734" user="Dekacc"/>
+	<node id="4704379089" lat="42.001967" lon="21.4221979" version="1" timestamp="2017-02-24T21:47:02Z" changeset="46380915" uid="2127961" user="BrookeEHarding"/>
+	<node id="4704379090" lat="42.0020304" lon="21.4220761" version="1" timestamp="2017-02-24T21:47:02Z" changeset="46380915" uid="2127961" user="BrookeEHarding"/>
+	<node id="4704379091" lat="42.0021193" lon="21.4221597" version="1" timestamp="2017-02-24T21:47:02Z" changeset="46380915" uid="2127961" user="BrookeEHarding"/>
+	<node id="4706991213" lat="42.0008254" lon="21.4202503" version="2" timestamp="2018-05-18T10:59:44Z" changeset="59076210" uid="131662" user="borces"/>
+	<node id="4706991214" lat="42.0009268" lon="21.4204319" version="2" timestamp="2018-05-18T10:59:44Z" changeset="59076210" uid="131662" user="borces"/>
+	<node id="4706991218" lat="42.0015815" lon="21.4205993" version="2" timestamp="2018-11-24T23:25:56Z" changeset="64856101" uid="6970734" user="Dekacc"/>
+	<node id="4706991219" lat="42.0016664" lon="21.4204305" version="2" timestamp="2018-11-24T23:25:56Z" changeset="64856101" uid="6970734" user="Dekacc"/>
+	<node id="4706991220" lat="42.0015986" lon="21.4203688" version="2" timestamp="2018-11-24T23:25:56Z" changeset="64856101" uid="6970734" user="Dekacc"/>
+	<node id="4706991221" lat="42.0011463" lon="21.4209043" version="2" timestamp="2018-05-18T10:59:44Z" changeset="59076210" uid="131662" user="borces"/>
+	<node id="4706991222" lat="42.0012113" lon="21.4210507" version="2" timestamp="2018-05-18T10:59:44Z" changeset="59076210" uid="131662" user="borces"/>
+	<node id="4706991223" lat="42.0013505" lon="21.4210035" version="2" timestamp="2018-05-18T10:59:44Z" changeset="59076210" uid="131662" user="borces"/>
+	<node id="4706991227" lat="42.0013413" lon="21.4214089" version="2" timestamp="2018-05-18T10:59:45Z" changeset="59076210" uid="131662" user="borces"/>
+	<node id="4706991228" lat="42.0013431" lon="21.4215365" version="2" timestamp="2018-05-18T10:59:44Z" changeset="59076210" uid="131662" user="borces"/>
+	<node id="4706991229" lat="42.0014746" lon="21.4214055" version="2" timestamp="2018-05-18T10:59:45Z" changeset="59076210" uid="131662" user="borces"/>
+	<node id="4706991248" lat="42.0015872" lon="21.4221432" version="1" timestamp="2017-02-26T17:51:25Z" changeset="46421642" uid="4358750" user="mariegorman"/>
+	<node id="4706991249" lat="42.0015937" lon="21.4223518" version="1" timestamp="2017-02-26T17:51:25Z" changeset="46421642" uid="4358750" user="mariegorman"/>
+	<node id="4706991250" lat="42.0017133" lon="21.4223451" version="1" timestamp="2017-02-26T17:51:25Z" changeset="46421642" uid="4358750" user="mariegorman"/>
+	<node id="4706991253" lat="42.0021226" lon="21.4219943" version="2" timestamp="2017-12-14T15:53:38Z" changeset="54628124" uid="6970734" user="Dekacc"/>
+	<node id="4706991254" lat="42.0020804" lon="21.4221094" version="2" timestamp="2017-12-14T15:53:37Z" changeset="54628124" uid="6970734" user="Dekacc"/>
+	<node id="4706991255" lat="42.0021611" lon="21.422163" version="2" timestamp="2017-12-14T15:53:37Z" changeset="54628124" uid="6970734" user="Dekacc"/>
+	<node id="4706991262" lat="42.0022638" lon="21.4222498" version="1" timestamp="2017-02-26T17:51:25Z" changeset="46421642" uid="4358750" user="mariegorman"/>
+	<node id="4706991263" lat="42.00219" lon="21.4224134" version="1" timestamp="2017-02-26T17:51:25Z" changeset="46421642" uid="4358750" user="mariegorman"/>
+	<node id="4706991264" lat="42.0021588" lon="21.4221641" version="1" timestamp="2017-02-26T17:51:25Z" changeset="46421642" uid="4358750" user="mariegorman"/>
+	<node id="4706991280" lat="42.0012142" lon="21.419637" version="3" timestamp="2018-11-25T11:47:59Z" changeset="64864936" uid="6970734" user="Dekacc"/>
+	<node id="4706991281" lat="42.0011212" lon="21.419551" version="3" timestamp="2018-11-25T11:47:59Z" changeset="64864936" uid="6970734" user="Dekacc"/>
+	<node id="4706991282" lat="42.0012348" lon="21.4193279" version="3" timestamp="2018-11-25T11:47:59Z" changeset="64864936" uid="6970734" user="Dekacc"/>
+	<node id="4756328633" lat="42.0010331" lon="21.4196462" version="3" timestamp="2018-11-25T11:47:59Z" changeset="64864936" uid="6970734" user="Dekacc"/>
+	<node id="4756328634" lat="42.0010945" lon="21.4195262" version="3" timestamp="2018-11-25T11:47:59Z" changeset="64864936" uid="6970734" user="Dekacc"/>
+	<node id="4756328635" lat="42.0011528" lon="21.4197571" version="3" timestamp="2018-11-25T11:47:59Z" changeset="64864936" uid="6970734" user="Dekacc"/>
+	<node id="4982232721" lat="41.9988648" lon="21.4238693" version="3" timestamp="2019-11-17T15:14:27Z" changeset="77191492" uid="436419" user="wvdp">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="diet:vegan" v="yes"/>
+		<tag k="name:en" v="BistRaw"/>
+		<tag k="opening_hours" v="Mo-Fr 12:00-20:00"/>
+	</node>
+	<node id="5033108253" lat="42.0005946" lon="21.4191901" version="2" timestamp="2018-11-25T11:47:58Z" changeset="64864936" uid="6970734" user="Dekacc">
+		<tag k="addr:city" v="Ckopje"/>
+		<tag k="addr:housenumber" v="4"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Radnjanska"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="capacity" v="100"/>
+		<tag k="cuisine" v="burger;coffee_shop;sandwich;ice_cream"/>
+		<tag k="name" v="Kantina"/>
+		<tag k="opening_hours" v="Monday- Satudray 09:00-24:00"/>
+		<tag k="outdoor_seating" v="yes"/>
+		<tag k="smoking" v="outside"/>
+		<tag k="takeaway" v="yes"/>
+	</node>
+	<node id="5131832941" lat="41.9948293" lon="21.4276093" version="2" timestamp="2021-02-22T11:37:10Z" changeset="99742382" uid="7140745" user="MatejMecka">
+		<tag k="addr:city" v="Ckopje"/>
+		<tag k="addr:housenumber" v="7"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Dame Gruev"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="grill"/>
+		<tag k="email" v="info@7.mk"/>
+		<tag k="name" v="7 Skara Restoran"/>
+		<tag k="name:en" v="7 Grill Restaurant"/>
+		<tag k="opening_hours" v="Mo-Th 08:00-24:00; Sa 08:00-01:00"/>
+		<tag k="outdoor_seating" v="yes"/>
+		<tag k="phone" v="+38923224000"/>
+		<tag k="takeaway" v="yes"/>
+		<tag k="website" v="http://7.mk/skara-restoran/"/>
+	</node>
+	<node id="5224224121" lat="41.9916485" lon="21.4223088" version="2" timestamp="2021-02-22T11:52:27Z" changeset="99743651" uid="7140745" user="MatejMecka">
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="email" v="ristovskidac@yahoo.com"/>
+		<tag k="internet_access" v="wlan"/>
+		<tag k="name" v="Gostilnica Gurman"/>
+		<tag k="name:en" v="guest house Gurman"/>
+		<tag k="opening_hours" v="Mo-Su 07:00-22:00"/>
+		<tag k="phone" v="+38923176200"/>
+	</node>
+	<node id="5289706561" lat="41.9913338" lon="21.4276864" version="1" timestamp="2017-12-17T13:10:45Z" changeset="54702866" uid="6970734" user="Dekacc">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="Star Ocean"/>
+	</node>
+	<node id="5292130848" lat="42.0005187" lon="21.4149006" version="3" timestamp="2018-04-13T14:33:52Z" changeset="58066445" uid="6970734" user="Dekacc">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="Fitness house"/>
+	</node>
+	<node id="5548809221" lat="41.9995926" lon="21.4366123" version="3" timestamp="2018-11-01T21:14:32Z" changeset="64093982" uid="4076934" user="Interactiondesigner">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="local;barbecue"/>
+		<tag k="name" v="kaj serdarot"/>
+		<tag k="name:en" v="Kaj Serdarot"/>
+		<tag k="outdoor_seating" v="yes"/>
+	</node>
+	<node id="5572053321" lat="42.0013292" lon="21.4205747" version="4" timestamp="2021-02-22T12:04:07Z" changeset="99744659" uid="7140745" user="MatejMecka">
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Živko Čingo"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="chicken;diner;beef_bowl;american;ice_cream;local;tea;pizza;burger;cake;pasta;french;italian_pizza;seafood;crepe;pancake;sandwich;coffee_shop;balkan;mediterranean;croatian;fish;kebab;breakfast;grill"/>
+		<tag k="diet:vegan" v="yes"/>
+		<tag k="internet_access" v="wlan"/>
+		<tag k="name" v="Debar Maalo"/>
+		<tag k="name:en" v="Debar Maalo"/>
+		<tag k="opening_hours" v="Su-Th 08:00-00:30; Fr-Sa 08:00-01:00"/>
+		<tag k="phone" v="+38976219654"/>
+	</node>
+	<node id="5624670966" lat="42.0023813" lon="21.4235595" version="2" timestamp="2020-04-16T06:50:58Z" changeset="83629134" uid="5359" user="user_5359">
+		<tag k="addr:housenumber" v="80"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Bulevar Ilinden"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="balkan"/>
+		<tag k="email" v="mezebarmcm@gmail.com"/>
+		<tag k="internet_access" v="wlan"/>
+		<tag k="name" v="MCM Meze Bar"/>
+		<tag k="name:en" v="MCM Meze Bar"/>
+		<tag k="opening_hours" v="24/7"/>
+		<tag k="phone" v="+38970250420"/>
+	</node>
+	<node id="5624682355" lat="42.0028235" lon="21.4239655" version="1" timestamp="2018-05-17T14:23:51Z" changeset="59052859" uid="131662" user="borces">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="Kostarika"/>
+		<tag k="name:en" v="Kostarika"/>
+	</node>
+	<node id="5624682357" lat="42.0028813" lon="21.4240111" version="1" timestamp="2018-05-17T14:23:51Z" changeset="59052859" uid="131662" user="borces">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="Staro Skupi"/>
+		<tag k="name:en" v="Staro Skupi"/>
+	</node>
+	<node id="5624682358" lat="42.0030128" lon="21.4240218" version="1" timestamp="2018-05-17T14:23:51Z" changeset="59052859" uid="131662" user="borces">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="pizza"/>
+		<tag k="name" v="Zanzibar"/>
+		<tag k="name:en" v="Zanzibar"/>
+	</node>
+	<node id="5626432520" lat="42.0013712" lon="21.4210921" version="1" timestamp="2018-05-18T10:59:42Z" changeset="59076210" uid="131662" user="borces">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="Idadija"/>
+		<tag k="name:en" v="Idadija"/>
+	</node>
+	<node id="5626433431" lat="42.001453" lon="21.4214837" version="1" timestamp="2018-05-18T10:59:42Z" changeset="59076210" uid="131662" user="borces">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="Nadžak"/>
+		<tag k="name:en" v="Nadzak"/>
+	</node>
+	<node id="5626433457" lat="42.0010941" lon="21.4206632" version="2" timestamp="2019-09-15T08:28:43Z" changeset="74490716" uid="4242580" user="Ppx">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="Zing"/>
+		<tag k="name:en" v="Fruti Di Mare"/>
+	</node>
+	<node id="5626433464" lat="42.0012838" lon="21.4210737" version="1" timestamp="2018-05-18T10:59:42Z" changeset="59076210" uid="131662" user="borces"/>
+	<node id="5626433480" lat="42.0007591" lon="21.420049" version="2" timestamp="2019-05-06T08:34:05Z" changeset="69926830" uid="9864829" user="Richie0210">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="Debar Maalo"/>
+		<tag k="name:en" v="Gostilnica Ilinden"/>
+	</node>
+	<node id="5626433485" lat="42.0012456" lon="21.4210149" version="1" timestamp="2018-05-18T10:59:43Z" changeset="59076210" uid="131662" user="borces"/>
+	<node id="5626433502" lat="42.0014888" lon="21.4208615" version="1" timestamp="2018-05-18T10:59:43Z" changeset="59076210" uid="131662" user="borces">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="Kaj Pero"/>
+		<tag k="name:en" v="Kaj Pero"/>
+	</node>
+	<node id="5692608680" lat="41.9990664" lon="21.4236496" version="1" timestamp="2018-06-15T10:35:52Z" changeset="59870841" uid="344903" user="Toyota_79">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="kebab"/>
+		<tag k="name" v="Gostilnica Estel"/>
+		<tag k="operator" v="Estel"/>
+		<tag k="outdoor_seating" v="yes"/>
+	</node>
+	<node id="5789449053" lat="41.9995917" lon="21.4361151" version="1" timestamp="2018-07-27T09:32:49Z" changeset="61114621" uid="4242580" user="Ppx">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="local"/>
+		<tag k="internet_access" v="wlan"/>
+		<tag k="name" v="SNOŠTI MINAV"/>
+		<tag k="name:en" v="SNOSTI MINAV"/>
+	</node>
+	<node id="5807750050" lat="41.995288" lon="21.4367281" version="1" timestamp="2018-08-03T18:50:28Z" changeset="61338998" uid="344903" user="Toyota_79">
+		<tag k="amenity" v="restaurant"/>
+	</node>
+	<node id="5813417254" lat="42.0009079" lon="21.4200655" version="3" timestamp="2021-02-22T11:59:29Z" changeset="99744248" uid="7140745" user="MatejMecka">
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Živko Čingo"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="savory_pancakes;german;chicken;diner;american;local;barbecue;tea;fine_dining;cake;pasta;international;french;greek;seafood;fish_and_chips;pancake;sandwich;coffee_shop;balkan;mediterranean;croatian;ramen;turkish;fish;kebab;grill"/>
+		<tag k="diet:vegan" v="yes"/>
+		<tag k="internet_access" v="wlan"/>
+		<tag k="name" v="Kafana &#34;Debar Maalo&#34;"/>
+		<tag k="name:en" v="Kafana &#34;Debar Maalo&#34;"/>
+		<tag k="opening_hours" v="Mo-Th 08:00-00:00; Fr-Su 08:00-01:00"/>
+		<tag k="phone" v="+38971279660"/>
+	</node>
+	<node id="6032865286" lat="42.0002786" lon="21.4371953" version="1" timestamp="2018-11-02T21:32:20Z" changeset="64128244" uid="4076934" user="Interactiondesigner">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="barbecue;local"/>
+		<tag k="name" v="Pçela"/>
+	</node>
+	<node id="6054048486" lat="42.0021215" lon="21.4378319" version="2" timestamp="2019-09-22T11:33:28Z" changeset="74769899" uid="4242580" user="Ppx">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name:en" v="Bratstvo"/>
+	</node>
+	<node id="6054048700" lat="41.9972228" lon="21.4228991" version="1" timestamp="2018-11-12T06:19:49Z" changeset="64393596" uid="9047835" user="YunDi88">
+		<tag k="amenity" v="restaurant"/>
+	</node>
+	<node id="6054050086" lat="41.9946111" lon="21.4207756" version="1" timestamp="2018-11-12T06:18:40Z" changeset="64393596" uid="9047835" user="YunDi88">
+		<tag k="amenity" v="restaurant"/>
+	</node>
+	<node id="6054050099" lat="41.9947932" lon="21.4135121" version="2" timestamp="2019-09-26T12:21:44Z" changeset="74957474" uid="3935153" user="Ivica Petreski">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="Vodenica"/>
+	</node>
+	<node id="6054050786" lat="41.9986877" lon="21.4142348" version="1" timestamp="2018-11-12T06:21:38Z" changeset="64393596" uid="9047835" user="YunDi88">
+		<tag k="amenity" v="restaurant"/>
+	</node>
+	<node id="6102488864" lat="41.9959518" lon="21.4199442" version="1" timestamp="2018-11-29T08:12:26Z" changeset="65000595" uid="2017065" user="Adam Harangozó">
+		<tag k="alt_name" v="Gostilnica Frosina"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="local"/>
+		<tag k="name" v="Restoran Frosina"/>
+	</node>
+	<node id="6386335236" lat="41.9996644" lon="21.4362086" version="1" timestamp="2019-04-05T18:37:59Z" changeset="68933205" uid="9455916" user="ahapen">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="Kaj Goce"/>
+	</node>
+	<node id="6514996385" lat="42.0025666" lon="21.4383067" version="2" timestamp="2019-09-22T11:33:28Z" changeset="74769899" uid="4242580" user="Ppx">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="internet_access" v="wlan"/>
+		<tag k="name:en" v="Kosmos"/>
+		<tag k="opening_hours" v="Mo-Su 07:00-22:00"/>
+	</node>
+	<node id="6781335887" lat="41.999319" lon="21.4360459" version="1" timestamp="2019-09-08T18:39:44Z" changeset="74234134" uid="9108335" user="Yvonlo8">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="Kebapčilinica Rio"/>
+		<tag k="name:en" v="Grill House Rio"/>
+	</node>
+	<node id="6781337085" lat="42.0018869" lon="21.4383639" version="1" timestamp="2019-09-08T18:39:44Z" changeset="74234134" uid="9108335" user="Yvonlo8">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name:en" v="Gjeltoria Palas"/>
+	</node>
+	<node id="6788977446" lat="41.9995518" lon="21.4131738" version="1" timestamp="2019-09-11T17:45:23Z" changeset="74366594" uid="154757" user="Tr4sK">
+		<tag k="addr:housenumber" v="20"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="Vega"/>
+	</node>
+	<node id="6796436088" lat="42.0015097" lon="21.4381319" version="2" timestamp="2021-01-07T21:59:36Z" changeset="97132091" uid="12449645" user="SlaSla57">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="Saraevo"/>
+		<tag k="name:en" v="Saraj"/>
+		<tag k="opening_hours" v="Mo-Su 07:30-19:00"/>
+	</node>
+	<node id="6814231688" lat="42.0006226" lon="21.4364213" version="1" timestamp="2019-09-21T15:31:52Z" changeset="74752372" uid="9047835" user="YunDi88">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="Tako mako"/>
+	</node>
+	<node id="6814231700" lat="42.0003594" lon="21.4372514" version="1" timestamp="2019-09-21T15:32:33Z" changeset="74752372" uid="9047835" user="YunDi88">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="Ohrid"/>
+	</node>
+	<node id="6814231702" lat="41.9969456" lon="21.4285563" version="1" timestamp="2019-09-21T15:32:37Z" changeset="74752372" uid="9047835" user="YunDi88">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="Markt kitchen"/>
+	</node>
+	<node id="6814231793" lat="42.0002543" lon="21.4374652" version="1" timestamp="2019-09-21T15:32:33Z" changeset="74752372" uid="9047835" user="YunDi88">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="Sac"/>
+	</node>
+	<node id="6814236587" lat="42.0019483" lon="21.4224937" version="1" timestamp="2019-09-21T15:31:47Z" changeset="74752372" uid="9047835" user="YunDi88">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="Skopsko"/>
+	</node>
+	<node id="6814236621" lat="42.002112" lon="21.4385882" version="1" timestamp="2019-09-21T15:32:21Z" changeset="74752372" uid="9047835" user="YunDi88">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="Palas"/>
+	</node>
+	<node id="6814245589" lat="42.0017089" lon="21.4219242" version="2" timestamp="2019-12-02T19:01:50Z" changeset="77838965" uid="10517616" user="DemonHyper">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="Schpajs"/>
+		<tag k="name:mk" v="Špajz"/>
+	</node>
+	<node id="6814246691" lat="42.0005272" lon="21.436443" version="1" timestamp="2019-09-21T15:31:51Z" changeset="74752372" uid="9047835" user="YunDi88">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="Don Giovanni"/>
+	</node>
+	<node id="6814246724" lat="41.9999786" lon="21.4373399" version="1" timestamp="2019-09-21T15:32:32Z" changeset="74752372" uid="9047835" user="YunDi88">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="Concept"/>
+	</node>
+	<node id="6815434686" lat="42.0016292" lon="21.4382061" version="2" timestamp="2021-10-25T16:00:48Z" changeset="112954668" uid="9047835" user="YunDi88">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="Plaset"/>
+		<tag k="name:en" v="Restoran Saraj"/>
+		<tag k="opening_hours" v="Mo-Su 07:00-02:00"/>
+	</node>
+	<node id="6815434689" lat="41.9967339" lon="21.4229663" version="1" timestamp="2019-09-22T11:33:32Z" changeset="74769899" uid="4242580" user="Ppx">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name:en" v="Toto"/>
+	</node>
+	<node id="6815434692" lat="42.002027" lon="21.4384905" version="1" timestamp="2019-09-22T11:33:35Z" changeset="74769899" uid="4242580" user="Ppx">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name:en" v="Teteks"/>
+	</node>
+	<node id="6815454785" lat="41.9945241" lon="21.4244578" version="1" timestamp="2019-09-22T11:33:32Z" changeset="74769899" uid="4242580" user="Ppx">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="Buket"/>
+	</node>
+	<node id="6815918386" lat="41.9963262" lon="21.4243264" version="1" timestamp="2019-09-22T17:48:00Z" changeset="74777891" uid="9047835" user="YunDi88">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="Mosh"/>
+	</node>
+	<node id="6815931392" lat="42.0026188" lon="21.4186405" version="1" timestamp="2019-09-22T17:53:01Z" changeset="74777891" uid="9047835" user="YunDi88">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="Metzka"/>
+	</node>
+	<node id="6821158588" lat="41.9942446" lon="21.4243092" version="1" timestamp="2019-09-24T20:15:13Z" changeset="74876257" uid="9047835" user="YunDi88">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="Davidoff"/>
+	</node>
+	<node id="6827032731" lat="42.0027517" lon="21.4415279" version="1" timestamp="2019-09-26T12:14:12Z" changeset="74956993" uid="9047835" user="YunDi88">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="Pizzeria Bik"/>
+	</node>
+	<node id="6827032733" lat="42.0011296" lon="21.4380383" version="1" timestamp="2019-09-26T12:14:15Z" changeset="74956993" uid="9047835" user="YunDi88">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="Old Balkan"/>
+	</node>
+	<node id="6827076186" lat="42.0025774" lon="21.4371206" version="1" timestamp="2019-09-26T12:14:20Z" changeset="74956993" uid="9047835" user="YunDi88">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="Kursumli An"/>
+	</node>
+	<node id="7027229685" lat="41.993295" lon="21.4352029" version="1" timestamp="2019-12-02T21:19:21Z" changeset="77842814" uid="10517616" user="DemonHyper">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="Restoran Nacional"/>
+		<tag k="name:en" v="Restaurant National"/>
+	</node>
+	<node id="7027229686" lat="41.996324" lon="21.4283137" version="2" timestamp="2021-07-24T18:24:53Z" changeset="108542187" uid="361707" user="0xF00F">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="Kaj Jole"/>
+		<tag k="name:en" v="Kaj Jole"/>
+	</node>
+	<node id="8745631651" lat="41.9942708" lon="21.4276555" version="1" timestamp="2021-05-19T11:31:22Z" changeset="104957075" uid="361707" user="0xF00F">
+		<tag k="addr:city" v="Ckopje"/>
+		<tag k="addr:housenumber" v="7"/>
+		<tag k="addr:street" v="Dame Gruev"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="diet:sugar_free" v="yes"/>
+		<tag k="diet:vegan" v="yes"/>
+		<tag k="diet:vegetarian" v="yes"/>
+		<tag k="name" v="Paradise Food"/>
+		<tag k="opening_hours" v="Mo-Th 08:00-20:00; Fr 08:00-16:00; Su 08:00-20:00"/>
+		<tag k="phone" v="+389 76 424 104"/>
+		<tag k="website" v="https://www.facebook.com/paradisefood.mk/"/>
+	</node>
+	<node id="8905635710" lat="41.9909456" lon="21.4408895" version="1" timestamp="2021-07-08T22:04:44Z" changeset="107663021" uid="510085" user="alkino">
+		<tag k="amenity" v="restaurant"/>
+	</node>
+	<node id="9200216340" lat="42.0006689" lon="21.4142957" version="1" timestamp="2021-10-25T16:01:33Z" changeset="112954668" uid="9047835" user="YunDi88">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="Mexican street food"/>
+	</node>
+	<node id="9200216346" lat="41.997055" lon="21.4171327" version="1" timestamp="2021-10-25T16:01:43Z" changeset="112954668" uid="9047835" user="YunDi88">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="name" v="Boko"/>
+	</node>
+	<way id="32674255" version="7" timestamp="2017-02-26T19:42:05Z" changeset="46424171" uid="4358750" user="mariegorman">
+		<nd ref="367656617"/>
+		<nd ref="367656619"/>
+		<nd ref="367656621"/>
+		<nd ref="367656623"/>
+		<nd ref="367656625"/>
+		<nd ref="4126731966"/>
+		<nd ref="367656617"/>
+		<tag k="addr:city" v="Ckopje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Vasil Ǵorgov"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="building" v="office"/>
+		<tag k="building:levels" v="1"/>
+		<tag k="name" v="Konstrukta"/>
+		<tag k="office" v="insurance"/>
+	</way>
+	<way id="121390892" version="5" timestamp="2020-01-16T11:06:41Z" changeset="79647248" uid="131662" user="borces">
+		<nd ref="1359271237"/>
+		<nd ref="2335358701"/>
+		<nd ref="1359271233"/>
+		<nd ref="1359271955"/>
+		<nd ref="1359271237"/>
+		<tag k="addr:city" v="Ckopje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:housenumber" v="28"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Mitropolit Teodosij Gologanov"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="building" v="yes"/>
+		<tag k="name" v="Restoran 2 Zlatnika"/>
+		<tag k="office" v="insurance"/>
+		<tag k="wheelchair" v="limited"/>
+	</way>
+	<way id="121511379" version="5" timestamp="2017-02-26T18:29:43Z" changeset="46422620" uid="4358750" user="mariegorman">
+		<nd ref="1378087148"/>
+		<nd ref="1360096515"/>
+		<nd ref="1360096565"/>
+		<nd ref="2334423428"/>
+		<nd ref="1360096558"/>
+		<nd ref="1378087148"/>
+		<tag k="addr:city" v="Ckopje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:housenumber" v="21"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Debarca"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="building" v="yes"/>
+		<tag k="name" v="Kerpič"/>
+	</way>
+	<way id="121511400" version="4" timestamp="2017-02-26T19:42:07Z" changeset="46424171" uid="4358750" user="mariegorman">
+		<nd ref="1360096525"/>
+		<nd ref="1360096464"/>
+		<nd ref="1360096563"/>
+		<nd ref="1577167286"/>
+		<nd ref="1360096525"/>
+		<tag k="addr:city" v="Ckopje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:housename" v="Dane"/>
+		<tag k="addr:housenumber" v="2"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Kiro Krstevski Platnik"/>
+		<tag k="alt_name" v="Dane"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="building" v="yes"/>
+		<tag k="cuisine" v="regional"/>
+		<tag k="int_name" v="Dane"/>
+		<tag k="name" v="Dane"/>
+		<tag k="name:en" v="Dane"/>
+	</way>
+	<way id="121511815" version="5" timestamp="2021-02-22T11:58:02Z" changeset="99744132" uid="7140745" user="MatejMecka">
+		<nd ref="1360100782"/>
+		<nd ref="1360100880"/>
+		<nd ref="1360100817"/>
+		<nd ref="4304422595"/>
+		<nd ref="1360100782"/>
+		<tag k="addr:city" v="Ckopje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:housenumber" v="32b"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Mitropolit Teodosij Gologanov"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="building" v="yes"/>
+		<tag k="cuisine" v="grill;local"/>
+		<tag k="internet_access" v="wlan"/>
+		<tag k="name" v="Ka"/>
+		<tag k="phone" v="+38923214350"/>
+	</way>
+	<way id="121511817" version="4" timestamp="2017-02-26T19:42:07Z" changeset="46424171" uid="4358750" user="mariegorman">
+		<nd ref="1747370831"/>
+		<nd ref="1360100879"/>
+		<nd ref="1360100850"/>
+		<nd ref="1360100799"/>
+		<nd ref="1747370831"/>
+		<tag k="addr:city" v="Ckopje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="building" v="yes"/>
+		<tag k="cuisine" v="regional"/>
+		<tag k="name" v="Ǵezme"/>
+	</way>
+	<way id="122862785" version="4" timestamp="2017-02-26T18:40:12Z" changeset="46422854" uid="4358750" user="mariegorman">
+		<nd ref="1371588475"/>
+		<nd ref="1371588471"/>
+		<nd ref="444930912"/>
+		<nd ref="1371588464"/>
+		<nd ref="1371588475"/>
+		<tag k="addr:city" v="Ckopje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Aminta Treti"/>
+		<tag k="addr:street:en" v="Aminta Treti"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="building" v="yes"/>
+		<tag k="cuisine" v="pizza"/>
+		<tag k="name" v="Mečos"/>
+	</way>
+	<way id="176133887" version="3" timestamp="2017-02-26T19:13:45Z" changeset="46423577" uid="4358750" user="mariegorman">
+		<nd ref="1866944539"/>
+		<nd ref="4471884331"/>
+		<nd ref="1866944556"/>
+		<nd ref="1866944557"/>
+		<nd ref="1866944550"/>
+		<nd ref="1866944563"/>
+		<nd ref="1866944551"/>
+		<nd ref="1866944574"/>
+		<nd ref="1866944546"/>
+		<nd ref="1866944537"/>
+		<nd ref="1866944539"/>
+		<tag k="addr:city" v="Ckopje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="building" v="yes"/>
+	</way>
+	<way id="176147491" version="5" timestamp="2019-02-19T19:51:38Z" changeset="67365422" uid="8600365" user="spuddy93">
+		<nd ref="1867058167"/>
+		<nd ref="1867057890"/>
+		<nd ref="1867057578"/>
+		<nd ref="1867057892"/>
+		<nd ref="1867058167"/>
+		<tag k="addr:city" v="Ckopje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:housenumber" v="29"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Aminta Treti"/>
+		<tag k="addr:street:en" v="Leninova"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="building" v="apartments"/>
+		<tag k="cuisine" v="chinese;thai;japanese;sushi"/>
+		<tag k="layer" v="1"/>
+		<tag k="name" v="Sushi Ko"/>
+		<tag k="name:en" v="Sushico"/>
+		<tag k="opening_hours" v="Su-Th 12:00-23:00; Fr-Sa 10:00-00:00"/>
+		<tag k="outdoor_seating" v="yes"/>
+		<tag k="phone" v="+389 2 3217874"/>
+		<tag k="smoking" v="separated"/>
+		<tag k="website" v="http://www.sushico.mk"/>
+	</way>
+	<way id="176159879" version="4" timestamp="2019-06-08T14:01:45Z" changeset="71051705" uid="158784" user="bjankuloski">
+		<nd ref="1867151643"/>
+		<nd ref="1867151645"/>
+		<nd ref="1867151650"/>
+		<nd ref="1867151651"/>
+		<nd ref="1867151643"/>
+		<tag k="addr:city" v="Ckopje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:housenumber" v="14"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Pajko Maalo"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="building" v="yes"/>
+		<tag k="cuisine" v="regional"/>
+		<tag k="fax" v="+389 2 3119668"/>
+		<tag k="int_name" v="Restoran Stara Kuka"/>
+		<tag k="name" v="Stara kuḱa"/>
+		<tag k="name:en" v="Old House Restaurant"/>
+		<tag k="outdoor_seating" v="yes"/>
+		<tag k="phone" v="+389 2 3131376"/>
+		<tag k="smoking" v="separated"/>
+		<tag k="website" v="http://starakuka.com.mk/"/>
+		<tag k="wheelchair" v="yes"/>
+	</way>
+	<way id="176448667" version="3" timestamp="2017-02-26T20:05:12Z" changeset="46424667" uid="4358750" user="mariegorman">
+		<nd ref="2323355486"/>
+		<nd ref="1869864172"/>
+		<nd ref="1869864074"/>
+		<nd ref="1869864310"/>
+		<nd ref="2323355486"/>
+		<tag k="addr:city" v="Ckopje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="building" v="yes"/>
+		<tag k="cuisine" v="chinese"/>
+		<tag k="name" v="Dzvezden Okean"/>
+		<tag k="name:en" v="Star Ocean"/>
+	</way>
+	<way id="189975234" version="5" timestamp="2017-02-26T19:13:47Z" changeset="46423577" uid="4358750" user="mariegorman">
+		<nd ref="2005843109"/>
+		<nd ref="3861007622"/>
+		<nd ref="3861007620"/>
+		<nd ref="2005843205"/>
+		<nd ref="2005843113"/>
+		<nd ref="2005843099"/>
+		<nd ref="2005843109"/>
+		<tag k="addr:city" v="Ckopje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="building" v="yes"/>
+		<tag k="name:en" v="Cafe Gorki"/>
+	</way>
+	<way id="248508284" version="4" timestamp="2017-02-26T18:12:09Z" changeset="46422210" uid="4358750" user="mariegorman">
+		<nd ref="2552845225"/>
+		<nd ref="2323346377"/>
+		<nd ref="2552845156"/>
+		<nd ref="2552845237"/>
+		<nd ref="2552845262"/>
+		<nd ref="2552845143"/>
+		<nd ref="4128439199"/>
+		<nd ref="2552845225"/>
+		<tag k="addr:city" v="Ckopje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="building" v="yes"/>
+		<tag k="name" v="Sopotsko"/>
+	</way>
+	<way id="279392654" version="2" timestamp="2015-07-11T19:00:15Z" changeset="32568965" uid="1468248" user="TheBlackMan">
+		<nd ref="2836006284"/>
+		<nd ref="2836006285"/>
+		<nd ref="2836006286"/>
+		<nd ref="2836006287"/>
+		<nd ref="2836006284"/>
+		<tag k="addr:city" v="Ckopje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="building" v="yes"/>
+		<tag k="cuisine" v="regional"/>
+		<tag k="name" v="Kuḱa"/>
+	</way>
+	<way id="305533452" version="3" timestamp="2017-09-04T08:36:49Z" changeset="51711178" uid="6594175" user="Lauvimui">
+		<nd ref="3101725383"/>
+		<nd ref="3101725384"/>
+		<nd ref="3101725389"/>
+		<nd ref="3101725385"/>
+		<nd ref="3101725386"/>
+		<nd ref="3101725383"/>
+		<tag k="addr:city" v="Ckopje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:housenumber" v="36"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Kej 13 Noemvri"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="building" v="yes"/>
+		<tag k="name" v="Restoran Kej"/>
+		<tag k="name:en" v="Restoran Kej"/>
+	</way>
+	<way id="305647156" version="4" timestamp="2018-12-05T11:27:17Z" changeset="65198115" uid="480208" user="Svetle">
+		<nd ref="3103097500"/>
+		<nd ref="3103097501"/>
+		<nd ref="3103097502"/>
+		<nd ref="3103097503"/>
+		<nd ref="3103097500"/>
+		<tag k="addr:city" v="Ckopje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:housenumber" v="4"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Adolf Ciborovski"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="building" v="yes"/>
+		<tag k="cuisine" v="regional;pizza"/>
+		<tag k="name" v="Bravos"/>
+	</way>
+	<way id="332382509" version="3" timestamp="2017-02-27T13:18:35Z" changeset="46442216" uid="4358750" user="mariegorman">
+		<nd ref="3484100382"/>
+		<nd ref="3395009515"/>
+		<nd ref="1866027761"/>
+		<nd ref="3484100381"/>
+		<nd ref="3484100382"/>
+		<tag k="addr:city" v="Ckopje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="building" v="yes"/>
+		<tag k="cuisine" v="regional"/>
+		<tag k="name" v="Od Nas Za Vas"/>
+		<tag k="takeaway" v="yes"/>
+	</way>
+	<way id="357827837" version="4" timestamp="2016-04-16T17:48:10Z" changeset="38628030" uid="1468248" user="TheBlackMan">
+		<nd ref="3629466115"/>
+		<nd ref="3629444920"/>
+		<nd ref="3629442362"/>
+		<nd ref="3629445633"/>
+		<nd ref="3629445632"/>
+		<nd ref="3629442712"/>
+		<nd ref="3629444919"/>
+		<nd ref="3629466115"/>
+		<tag k="addr:city" v="Ckopje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="building" v="yes"/>
+		<tag k="cuisine" v="italian"/>
+		<tag k="name" v="Vodenica"/>
+		<tag k="name:en" v="Vodenica Mulino"/>
+		<tag k="website" v="www.vodenicamulino.com.mk"/>
+	</way>
+	<way id="357827839" version="3" timestamp="2017-05-23T20:32:45Z" changeset="48927974" uid="4709387" user="Marquezzo">
+		<nd ref="3629444921"/>
+		<nd ref="3629442362"/>
+		<nd ref="3629444920"/>
+		<nd ref="3629442283"/>
+		<nd ref="3629466116"/>
+		<nd ref="3629445635"/>
+		<nd ref="3629445634"/>
+		<nd ref="3629444921"/>
+		<tag k="addr:city" v="Ckopje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:housenumber" v="79"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Mitropolit Teodosij Gologanov"/>
+		<tag k="addr:street:en" v="Mitroplit Teodosij Gologanov"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="building" v="yes"/>
+		<tag k="cuisine" v="regional"/>
+		<tag k="email" v="gostilnicadukat@gmail.com"/>
+		<tag k="name" v="Dukat"/>
+		<tag k="name:en" v="Gostilnica Dukat"/>
+		<tag k="opening_hours" v="Mo-Fr 08:00-24:00; Sa,Su 00:00-01:00,08:00-24:00"/>
+		<tag k="outdoor_seating" v="yes"/>
+		<tag k="payment:coins" v="yes"/>
+		<tag k="payment:diners_club" v="yes"/>
+		<tag k="payment:maestro" v="yes"/>
+		<tag k="payment:mastercard" v="yes"/>
+		<tag k="payment:notes" v="yes"/>
+		<tag k="payment:visa" v="yes"/>
+		<tag k="phone" v="+389 2 3211011"/>
+		<tag k="smoking" v="separated"/>
+	</way>
+	<way id="363752338" version="4" timestamp="2019-02-19T22:40:56Z" changeset="67370606" uid="8600365" user="spuddy93">
+		<nd ref="3678871841"/>
+		<nd ref="3678871629"/>
+		<nd ref="3678872133"/>
+		<nd ref="3678872134"/>
+		<nd ref="3678871841"/>
+		<tag k="addr:city" v="Ckopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:housenumber" v="51"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Debarca"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="building" v="yes"/>
+		<tag k="cuisine" v="regional"/>
+		<tag k="name" v="Skopski Merak"/>
+		<tag k="opening_hours" v="Mo-Su 00:00-01:00,08:00-24:00"/>
+		<tag k="outdoor_seating" v="yes"/>
+		<tag k="smoking" v="separated"/>
+		<tag k="website" v="http://www.skopskimerak.mk/"/>
+	</way>
+	<way id="379896010" version="2" timestamp="2017-02-26T15:46:44Z" changeset="46418619" uid="4358750" user="mariegorman">
+		<nd ref="3832475129"/>
+		<nd ref="3832475145"/>
+		<nd ref="3832475144"/>
+		<nd ref="3832475130"/>
+		<nd ref="3832475129"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="building" v="yes"/>
+		<tag k="name" v="Kalabalak"/>
+	</way>
+	<way id="388871332" version="3" timestamp="2016-09-19T09:53:11Z" changeset="42266019" uid="4472957" user="Ersan Halıcı">
+		<nd ref="3920570915"/>
+		<nd ref="3920570913"/>
+		<nd ref="3920570902"/>
+		<nd ref="3920570909"/>
+		<nd ref="3920570915"/>
+		<tag k="addr:city" v="Ckopje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:housenumber" v="22"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="50-ta divizija"/>
+		<tag k="addr:street:en" v="50 Divizija"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="building" v="yes"/>
+		<tag k="cuisine" v="regional"/>
+		<tag k="email" v="contact@publicroom.org"/>
+		<tag k="name" v="Javna Soba"/>
+		<tag k="name:en" v="Public Room"/>
+		<tag k="name:nl" v="Open Huis"/>
+		<tag k="name:tr" v="Public Room"/>
+		<tag k="opening_hours" v="08:00-24:00"/>
+		<tag k="phone" v="+389 2 6092650"/>
+		<tag k="shop" v="art"/>
+		<tag k="smoking" v="no"/>
+		<tag k="website" v="http://publicroom.org/contact.html"/>
+	</way>
+	<way id="445237139" version="2" timestamp="2017-02-26T15:59:54Z" changeset="46418907" uid="4358750" user="mariegorman">
+		<nd ref="4426902650"/>
+		<nd ref="4426902645"/>
+		<nd ref="4426902647"/>
+		<nd ref="3832475131"/>
+		<nd ref="4426902653"/>
+		<nd ref="4426902650"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="building" v="yes"/>
+		<tag k="name" v="La Tana"/>
+	</way>
+	<way id="445237140" version="2" timestamp="2017-02-26T15:59:54Z" changeset="46418907" uid="4358750" user="mariegorman">
+		<nd ref="3832475141"/>
+		<nd ref="4426902658"/>
+		<nd ref="4426902661"/>
+		<nd ref="4426902662"/>
+		<nd ref="4426902663"/>
+		<nd ref="3832475141"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="building" v="yes"/>
+		<tag k="name" v="Amigo"/>
+	</way>
+	<way id="445237144" version="2" timestamp="2017-02-26T15:59:54Z" changeset="46418907" uid="4358750" user="mariegorman">
+		<nd ref="4426902661"/>
+		<nd ref="4426902658"/>
+		<nd ref="4426902651"/>
+		<nd ref="4426902656"/>
+		<nd ref="4426902659"/>
+		<nd ref="1860365659"/>
+		<nd ref="4426902661"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="building" v="yes"/>
+		<tag k="cuisine" v="regional"/>
+		<tag k="name" v="Kaj Zlate"/>
+	</way>
+	<way id="445837935" version="2" timestamp="2017-02-27T18:41:51Z" changeset="46448745" uid="4358750" user="mariegorman">
+		<nd ref="1999321631"/>
+		<nd ref="4431829369"/>
+		<nd ref="4431829371"/>
+		<nd ref="4431829370"/>
+		<nd ref="1999321631"/>
+		<tag k="alt_name" v="Galerija 7"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="building" v="yes"/>
+		<tag k="cuisine" v="turkish"/>
+		<tag k="int_name" v="Galerry 7"/>
+		<tag k="name" v="Galerija 7"/>
+	</way>
+	<way id="474873952" version="4" timestamp="2019-05-25T22:52:02Z" changeset="70620946" uid="158784" user="bjankuloski">
+		<nd ref="1810967608"/>
+		<nd ref="4687349433"/>
+		<nd ref="4687349434"/>
+		<nd ref="4687349435"/>
+		<nd ref="4687349436"/>
+		<nd ref="4687349437"/>
+		<nd ref="1810967608"/>
+		<tag k="alt_name" v="Žabarot"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="building" v="yes"/>
+		<tag k="name" v="Kaj Žabarot"/>
+	</way>
+	<way id="477026719" version="1" timestamp="2017-02-24T21:47:02Z" changeset="46380915" uid="2127961" user="BrookeEHarding">
+		<nd ref="2717099203"/>
+		<nd ref="3427393078"/>
+		<nd ref="4704377563"/>
+		<nd ref="2717099200"/>
+		<nd ref="2717099203"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="capacity" v="30"/>
+		<tag k="cuisine" v="regional"/>
+		<tag k="delivery" v="no"/>
+		<tag k="name" v="Čitalna"/>
+		<tag k="name:en" v="Chitalna"/>
+		<tag k="smoking" v="outside"/>
+	</way>
+	<way id="477026724" version="2" timestamp="2021-09-25T20:46:59Z" changeset="111701196" uid="361707" user="0xF00F">
+		<nd ref="4704379091"/>
+		<nd ref="4704379090"/>
+		<nd ref="4704379089"/>
+		<nd ref="796178301"/>
+		<nd ref="4704379091"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="regional"/>
+		<tag k="int_name" v="Cardak"/>
+		<tag k="name" v="Čardak"/>
+		<tag k="name:en" v="Chardak"/>
+		<tag k="outdoor_seating" v="yes"/>
+	</way>
+	<way id="477325813" version="2" timestamp="2018-05-18T10:59:46Z" changeset="59076210" uid="131662" user="borces">
+		<nd ref="4706991214"/>
+		<nd ref="4706991213"/>
+		<nd ref="1928095824"/>
+		<nd ref="1373103651"/>
+		<nd ref="4706991214"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="building" v="yes"/>
+		<tag k="int_name" v="Naša Sofra"/>
+		<tag k="is_in" v="Skopje"/>
+		<tag k="name" v="Naša sofra"/>
+		<tag k="name:en" v="Nasha Sofra"/>
+		<tag k="old_name" v="stobi"/>
+	</way>
+	<way id="477325815" version="1" timestamp="2017-02-26T17:51:25Z" changeset="46421642" uid="4358750" user="mariegorman">
+		<nd ref="4706991220"/>
+		<nd ref="4706991219"/>
+		<nd ref="4706991218"/>
+		<nd ref="418875414"/>
+		<nd ref="4706991220"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="building" v="yes"/>
+		<tag k="name" v="Debar Maalo"/>
+	</way>
+	<way id="477325816" version="4" timestamp="2019-03-01T16:52:42Z" changeset="67692616" uid="4240913" user="Corban8">
+		<nd ref="1373110858"/>
+		<nd ref="4706991223"/>
+		<nd ref="5626433464"/>
+		<nd ref="5626433485"/>
+		<nd ref="4706991222"/>
+		<nd ref="4706991221"/>
+		<nd ref="1373110858"/>
+		<tag k="addr:city" v="Ckopje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:housenumber" v="3"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Oton Župančič"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="building" v="yes"/>
+		<tag k="cuisine" v="regional"/>
+		<tag k="email" v="gurmet@restorani.com.mk"/>
+		<tag k="int_name" v="Gurmet"/>
+		<tag k="name" v="Gurmet"/>
+		<tag k="opening_hours" v="09:00-24:00, Fr-Sa 09:00-01:00"/>
+		<tag k="payment:maestro" v="yes"/>
+		<tag k="payment:mastercard" v="yes"/>
+		<tag k="payment:visa" v="yes"/>
+	</way>
+	<way id="477325818" version="2" timestamp="2019-02-27T13:22:43Z" changeset="67617675" uid="480208" user="Svetle">
+		<nd ref="4706991229"/>
+		<nd ref="1373110836"/>
+		<nd ref="4706991228"/>
+		<nd ref="4706991227"/>
+		<nd ref="4706991229"/>
+		<tag k="addr:city" v="Ckopje"/>
+		<tag k="addr:housenumber" v="87"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Miroslav Krleža"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="building" v="yes"/>
+		<tag k="name" v="Nadžak"/>
+	</way>
+	<way id="477325825" version="2" timestamp="2019-12-02T19:01:51Z" changeset="77838965" uid="10517616" user="DemonHyper">
+		<nd ref="4706991250"/>
+		<nd ref="4706991249"/>
+		<nd ref="4706991248"/>
+		<nd ref="1138894760"/>
+		<nd ref="4706991250"/>
+		<tag k="alt_name" v="Kancelarija"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="building" v="yes"/>
+		<tag k="int_name" v="Kancelarija"/>
+		<tag k="name" v="Kancelarija"/>
+		<tag k="name:mk" v="Kancelarija"/>
+	</way>
+	<way id="477325827" version="1" timestamp="2017-02-26T17:51:27Z" changeset="46421642" uid="4358750" user="mariegorman">
+		<nd ref="4706991255"/>
+		<nd ref="4706991254"/>
+		<nd ref="4706991253"/>
+		<nd ref="2411332043"/>
+		<nd ref="4706991255"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="building" v="yes"/>
+		<tag k="int_name" v="Čamo"/>
+		<tag k="name" v="Čamo"/>
+		<tag k="name:en" v="Chamo"/>
+	</way>
+	<way id="477325830" version="2" timestamp="2019-03-01T16:52:42Z" changeset="67692616" uid="4240913" user="Corban8">
+		<nd ref="4706991264"/>
+		<nd ref="4706991262"/>
+		<nd ref="4706991263"/>
+		<nd ref="1577162234"/>
+		<nd ref="4706991264"/>
+		<tag k="addr:housenumber" v="4"/>
+		<tag k="addr:street" v="Ǵorǵi Peškov"/>
+		<tag k="alt_name" v="Ganza"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="building" v="yes"/>
+		<tag k="int_name" v="Ganza"/>
+		<tag k="name" v="Ganza"/>
+	</way>
+	<way id="477325836" version="3" timestamp="2019-02-19T22:40:57Z" changeset="67370606" uid="8600365" user="spuddy93">
+		<nd ref="3779543187"/>
+		<nd ref="4706991280"/>
+		<nd ref="4706991281"/>
+		<nd ref="4706991282"/>
+		<nd ref="3779543187"/>
+		<tag k="addr:city" v="Ckopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:housenumber" v="53"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Debarca"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="building" v="yes"/>
+		<tag k="cuisine" v="regional"/>
+		<tag k="name" v="Antica"/>
+		<tag k="outdoor_seating" v="yes"/>
+	</way>
+	<way id="482846770" version="2" timestamp="2018-05-18T10:59:45Z" changeset="59076210" uid="131662" user="borces">
+		<nd ref="4706991280"/>
+		<nd ref="4756328635"/>
+		<nd ref="4756328633"/>
+		<nd ref="4756328634"/>
+		<nd ref="4706991281"/>
+		<nd ref="4706991280"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="leisure" v="outdoor_seating"/>
+		<tag k="operator" v="Antica"/>
+	</way>
+</osm>

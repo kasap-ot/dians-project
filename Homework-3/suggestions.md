@@ -1,4 +1,5 @@
 Let's create the following folder structure:
+
 ```
  |
  |-front-end
@@ -8,11 +9,11 @@ Let's create the following folder structure:
  |
  |-back-end
 ```
+
 Let's create two separate branches called:
-```
-	- front-end
-	- back-end
-```
+- front-end
+- back-end
+
 In each branch create the apropriate folders and start coding :)
 
 Git commands:

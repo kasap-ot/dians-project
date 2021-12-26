@@ -1,4 +1,4 @@
-Useful commands:
+**Useful commands:**
 - docker-compose build
 - docker-compose up
 - docker-compose down
@@ -10,5 +10,5 @@ Useful commands:
 
 On container startup, recreate alembic migrations
 
-OpenAPI: localhost:8000/docs
-pgAdmin: localhost:5050
+**OpenAPI:** localhost:8000/docs
+**pgAdmin:** localhost:5050

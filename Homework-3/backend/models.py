@@ -6,7 +6,7 @@ Base = declarative_base()
 
 
 class Restaurant(Base):
-    __tablenae__ = "restaurants"
+    __tablename__ = "restaurants"
     id_ = Column(Integer, primary_key=True, index=True)
     name = Column(String(100))
     rating = Column(Float)

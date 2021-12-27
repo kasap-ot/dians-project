@@ -2,8 +2,7 @@ from typing import Optional
 from pydantic import BaseModel
 
 
-class Restaurant(BaseModel):
-    id_: Optional[int]
+class BaseRestaurant(BaseModel):
     name: str
     rating: float
     lat: float
@@ -11,3 +10,11 @@ class Restaurant(BaseModel):
 
     class Config:
         orm_mode = True
+
+
+class ReadRestaurant(BaseRestaurant):
+    id_: int
+
+
+class CreateRestaurant(BaseRestaurant):
+    ...
